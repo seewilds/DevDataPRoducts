@@ -1,0 +1,10 @@
+Aggregate,Full Name,Contained Elements
+TREO,Total Rare Earth Oxides,Sum of All Elements
+LREO,Light Rare Earth Oxides,"Sum of La, Ce, Pr, Nd, Sm, Eu, Gd"
+HREO,Heavy Rare Earth Oxides,"Sum of Tb, Dy, Ho,  Er,  Tm,  Yb,  Lu,  Y"
+CREO,Critical Rare Earth Oxides,"Sum of Nd, Eu, Tb, Dy"
+MREO,Magnetic Rare Earth Oxides,"Sum of Pr, Nd, Tb, Dy, Sm"
+HoT,Heavy over Total,HREO/TREO
+CoT,Critical over Total,CREO/TREO
+MoT,Magnetic over Total,MREO/TREO
+Tonnage,,Gross Tonnes of Ore

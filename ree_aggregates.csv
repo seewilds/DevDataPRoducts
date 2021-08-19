@@ -1,0 +1,971 @@
+"","Project","Owner.s.","Confidence","variable","value"
+"1","Araxá","MBAC Fertilizer Corp.","Measured + Indicated","TREO",4.99619165354331
+"2","Ashram MHREO","Commerce Resources Corp.","Measured + Indicated","TREO",1.63385579268293
+"3","Ashram Total","Commerce Resources Corp.","Measured + Indicated","TREO",1.89581401230349
+"4","Bear Lodge","Rare Element Resources Ltd.","Measured + Indicated","TREO",3.07783185459026
+"5","Bokan - Dotson","Ucore Rare Metals Inc.","Measured + Indicated","TREO",0.615
+"6","Brockmans","Hastings Rare Metals Limited","Measured + Indicated","TREO",0.2102
+"7","Browns Range","Northern Minerals Limited","Measured + Indicated","TREO",0.695541817
+"8","Buckton","DNI Metals Inc.","Measured + Indicated","TREO",0.02522
+"9","Charley Creek - Cattle Creek ","Crossland Strategic Metals Ltd.","Measured + Indicated","TREO",2.8
+"10","Charley Creek - Western Dam ","Crossland Strategic Metals Ltd.","Measured + Indicated","TREO",3.22
+"11","Dubbo Zirconia Project","Alkane Resources Ltd.","Measured + Indicated","TREO",0.89
+"12","Eco Ridge","Pele Mountain Resources Inc.","Measured + Indicated","TREO",0.16
+"13","Elliott Lake Teasdale","Appia Energy Corp.","Measured + Indicated","TREO",0.19333539
+"14","Foxtrot","Search Minerals Inc.","Measured + Indicated","TREO",1.0334
+"15","Glenover ","Galileo Resources PLC","Measured + Indicated","TREO",1.45146535
+"16","Hoidas Lake ","Great Western Minerals  Ltd.","Measured + Indicated","TREO",2.06598938186929
+"17","Kipawa","Matamec Explorations Inc.","Measured + Indicated","TREO",0.380018648614662
+"18","Lavergne-Springer","Canada Rare Earth Corp.","Measured + Indicated","TREO",1.14
+"19","Lofdal","Namibia Rare Earths Inc.","Measured + Indicated","TREO",0.621
+"20","Montviel","Geomega Resources Inc.","Measured + Indicated","TREO",1.4528
+"21","Mount Weld CLD","Lynas Corporation Ltd.","Measured + Indicated","TREO",10.0105884057971
+"22","Mount Weld Duncan","Lynas Corporation Ltd.","Measured + Indicated","TREO",5.10102
+"23","Mrima Hill High Grade","Pacific Wildcat Resources Corp.","Measured + Indicated","TREO",6.9392
+"24","Mrima Hill Main","Pacific Wildcat Resources Corp.","Measured + Indicated","TREO",4.4083
+"25","Nechalacho Basal","Avalon Rare Metals Inc.","Measured + Indicated","TREO",1.6423717240265
+"26","Nechalacho Upper","Avalon Rare Metals Inc.","Measured + Indicated","TREO",1.5196
+"27","Ngualla","Peak Resources Ltd.","Measured + Indicated","TREO",2.31622857142857
+"28","Nolans","Arafura Resources Ltd.","Measured + Indicated","TREO",2.71849316205534
+"29","Norra Kärr","Tasman Metals Ltd.","Measured + Indicated","TREO",0.56782
+"30","Olserum","Tasman Metals Ltd.","Measured + Indicated","TREO",0.5853
+"31","Round Top","Texas Rare Earth Resources Corp.","Measured + Indicated","TREO",0.0632984612607347
+"32","Sarfartoq","Hudson Resources Inc.","Measured + Indicated","TREO",1.7696
+"33","Songwe Hill","Mkango Resources Ltd.","Measured + Indicated","TREO",1.618819603
+"34","Steenkampskraal - In Situ","Great Western Minerals  Ltd.","Measured + Indicated","TREO",14.9487817531306
+"35","Steenkampskraal - Tailings","Great Western Minerals  Ltd.","Measured + Indicated","TREO",7.172
+"36","Strange Lake Enriched","Quest Rare Minerals Ltd.","Measured + Indicated","TREO",1.441
+"37","Strange Lake Granite","Quest Rare Minerals Ltd.","Measured + Indicated","TREO",0.892
+"38","Tantalus","Tantalus Rare Earths AG","Measured + Indicated","TREO",0.0897459362622354
+"39","Xiluvo","Promac Lda.","Measured + Indicated","TREO",2.03
+"40","Yangibana ","Hastings Rare Metals Limited","Measured + Indicated","TREO",1.59
+"41","Zandkopsdrift ","Frontier Rare Earths Ltd.","Measured + Indicated","TREO",2.284018549
+"42","Aksu Diamas","AMR Mineral Metal Inc.","Measured + Indicated + Inferred","TREO",0.069711
+"43","Araxá","MBAC Fertilizer Corp.","Measured + Indicated + Inferred","TREO",4.20662180982679
+"44","Ashram MHREO","Commerce Resources Corp.","Measured + Indicated + Inferred","TREO",1.61396598930481
+"45","Ashram Total","Commerce Resources Corp.","Measured + Indicated + Inferred","TREO",1.88618219706095
+"46","Bear Lodge","Rare Element Resources Ltd.","Measured + Indicated + Inferred","TREO",2.68530774655172
+"47","Bokan - Dotson","Ucore Rare Metals Inc.","Measured + Indicated + Inferred","TREO",0.611358750760495
+"48","Brockmans","Hastings Rare Metals Limited","Measured + Indicated + Inferred","TREO",0.2102
+"49","Browns Range","Northern Minerals Limited","Measured + Indicated + Inferred","TREO",0.628212064375697
+"50","Buckton","DNI Metals Inc.","Measured + Indicated + Inferred","TREO",0.0255780697488354
+"51","Buckton South","DNI Metals Inc.","Measured + Indicated + Inferred","TREO",0.02501
+"52","Charley Creek - Cattle Creek ","Crossland Strategic Metals Ltd.","Measured + Indicated + Inferred","TREO",2.86442049411375
+"53","Charley Creek - Western Dam ","Crossland Strategic Metals Ltd.","Measured + Indicated + Inferred","TREO",3.08779426310584
+"54","Clay-Howells","Canada Rare Earth Corp.","Measured + Indicated + Inferred","TREO",0.729
+"55","Dubbo Zirconia Project","Alkane Resources Ltd.","Measured + Indicated + Inferred","TREO",0.89
+"56","Eco Ridge","Pele Mountain Resources Inc.","Measured + Indicated + Inferred","TREO",0.156670927271808
+"57","Elliott Lake Teasdale","Appia Energy Corp.","Measured + Indicated + Inferred","TREO",0.185940392352622
+"58","Foxtrot","Search Minerals Inc.","Measured + Indicated + Inferred","TREO",1.03078133725202
+"59","Glenover ","Galileo Resources PLC","Measured + Indicated + Inferred","TREO",1.25400663801652
+"60","Hoidas Lake ","Great Western Minerals  Ltd.","Measured + Indicated + Inferred","TREO",2.04410422306114
+"61","Kipawa","Matamec Explorations Inc.","Measured + Indicated + Inferred","TREO",0.371582853456221
+"62","Lavergne-Springer","Canada Rare Earth Corp.","Measured + Indicated + Inferred","TREO",1.1633559382212
+"63","Lofdal","Namibia Rare Earths Inc.","Measured + Indicated + Inferred","TREO",0.591454545454545
+"64","Milo","GBM Resources Ltd.","Measured + Indicated + Inferred","TREO",0.0605
+"65","Montviel","Geomega Resources Inc.","Measured + Indicated + Inferred","TREO",1.45463651237031
+"66","Mount Weld CLD","Lynas Corporation Ltd.","Measured + Indicated + Inferred","TREO",9.60911140939597
+"67","Mount Weld Duncan","Lynas Corporation Ltd.","Measured + Indicated + Inferred","TREO",5.10102
+"68","Mrima Hill High Grade","Pacific Wildcat Resources Corp.","Measured + Indicated + Inferred","TREO",6.93922537432286
+"69","Mrima Hill Main","Pacific Wildcat Resources Corp.","Measured + Indicated + Inferred","TREO",4.40811885232659
+"70","Nechalacho Basal","Avalon Rare Metals Inc.","Measured + Indicated + Inferred","TREO",1.51676369845898
+"71","Nechalacho Upper","Avalon Rare Metals Inc.","Measured + Indicated + Inferred","TREO",1.422228158071
+"72","Ngualla","Peak Resources Ltd.","Measured + Indicated + Inferred","TREO",2.26635897435897
+"73","Nolans","Arafura Resources Ltd.","Measured + Indicated + Inferred","TREO",2.58263587737844
+"74","Norra Kärr","Tasman Metals Ltd.","Measured + Indicated + Inferred","TREO",0.587688158347676
+"75","Olserum","Tasman Metals Ltd.","Measured + Indicated + Inferred","TREO",0.599980769230769
+"76","Round Top","Texas Rare Earth Resources Corp.","Measured + Indicated + Inferred","TREO",0.0632041041284683
+"77","Sarfartoq","Hudson Resources Inc.","Measured + Indicated + Inferred","TREO",1.71760819848975
+"78","Songwe Hill","Mkango Resources Ltd.","Measured + Indicated + Inferred","TREO",1.47770147908157
+"79","Steenkampskraal - In Situ","Great Western Minerals  Ltd.","Measured + Indicated + Inferred","TREO",14.5111615508885
+"80","Steenkampskraal - Tailings","Great Western Minerals  Ltd.","Measured + Indicated + Inferred","TREO",7.172
+"81","Strange Lake Enriched","Quest Rare Minerals Ltd.","Measured + Indicated + Inferred","TREO",1.441
+"82","Strange Lake Granite","Quest Rare Minerals Ltd.","Measured + Indicated + Inferred","TREO",0.871583847487295
+"83","Tantalus","Tantalus Rare Earths AG","Measured + Indicated + Inferred","TREO",0.0895089502059154
+"84","Two Tom","Canada Rare Earth Corp.","Measured + Indicated + Inferred","TREO",1.182
+"85","Wigu Hill Twiga","Montero Mining and Exploration Ltd.","Measured + Indicated + Inferred","TREO",2.67519
+"86","Xiluvo","Promac Lda.","Measured + Indicated + Inferred","TREO",2.03
+"87","Yangibana ","Hastings Rare Metals Limited","Measured + Indicated + Inferred","TREO",1.52331366577025
+"88","Zandkopsdrift ","Frontier Rare Earths Ltd.","Measured + Indicated + Inferred","TREO",2.23465160197057
+"89","Bear Lodge","Rare Element Resources Ltd.","Proven + Probable","TREO",2.95112946996466
+"90","Dubbo Zirconia Project","Alkane Resources Ltd.","Proven + Probable","TREO",0.882246033954912
+"91","Kipawa","Matamec Explorations Inc.","Proven + Probable","TREO",0.4104
+"92","Mount Weld CLD","Lynas Corporation Ltd.","Proven + Probable","TREO",11.6615670103093
+"93","Mountain Pass","Molycorp Inc.","Proven + Probable","TREO",7.97918939728259
+"94","Nechalacho Basal","Avalon Rare Metals Inc.","Proven + Probable","TREO",1.70050498128082
+"95","Ngualla","Peak Resources Ltd.","Proven + Probable","TREO",4.54355582608696
+"96","Norra Kärr","Tasman Metals Ltd.","Proven + Probable","TREO",0.59211
+"97","Strange Lake Enriched","Quest Rare Minerals Ltd.","Proven + Probable","TREO",1.1621
+"98","Araxá","MBAC Fertilizer Corp.","Measured + Indicated","HREO",0.0774815748031496
+"99","Ashram MHREO","Commerce Resources Corp.","Measured + Indicated","HREO",0.0934164634146342
+"100","Ashram Total","Commerce Resources Corp.","Measured + Indicated","HREO",0.0571867395762133
+"101","Bear Lodge","Rare Element Resources Ltd.","Measured + Indicated","HREO",0.054481269254467
+"102","Bokan - Dotson","Ucore Rare Metals Inc.","Measured + Indicated","HREO",0.224
+"103","Brockmans","Hastings Rare Metals Limited","Measured + Indicated","HREO",0.1725
+"104","Browns Range","Northern Minerals Limited","Measured + Indicated","HREO",0.54890772
+"105","Buckton","DNI Metals Inc.","Measured + Indicated","HREO",0.0055
+"106","Charley Creek - Cattle Creek ","Crossland Strategic Metals Ltd.","Measured + Indicated","HREO",0.5152
+"107","Charley Creek - Western Dam ","Crossland Strategic Metals Ltd.","Measured + Indicated","HREO",0.59248
+"108","Dubbo Zirconia Project","Alkane Resources Ltd.","Measured + Indicated","HREO",0.1869
+"109","Eco Ridge","Pele Mountain Resources Inc.","Measured + Indicated","HREO",0.0116
+"110","Elliott Lake Teasdale","Appia Energy Corp.","Measured + Indicated","HREO",0.01117517
+"111","Foxtrot","Search Minerals Inc.","Measured + Indicated","HREO",0.1819
+"112","Glenover ","Galileo Resources PLC","Measured + Indicated","HREO",0.055907059
+"113","Hoidas Lake ","Great Western Minerals  Ltd.","Measured + Indicated","HREO",0.0350812741756847
+"114","Kipawa","Matamec Explorations Inc.","Measured + Indicated","HREO",0.134861847675735
+"115","Lavergne-Springer","Canada Rare Earth Corp.","Measured + Indicated","HREO",0.046
+"116","Lofdal","Namibia Rare Earths Inc.","Measured + Indicated","HREO",0.499
+"117","Montviel","Geomega Resources Inc.","Measured + Indicated","HREO",0.0114
+"118","Mount Weld CLD","Lynas Corporation Ltd.","Measured + Indicated","HREO",0.0634473913043478
+"119","Mount Weld Duncan","Lynas Corporation Ltd.","Measured + Indicated","HREO",0.38454
+"120","Mrima Hill High Grade","Pacific Wildcat Resources Corp.","Measured + Indicated","HREO",0.277
+"121","Mrima Hill Main","Pacific Wildcat Resources Corp.","Measured + Indicated","HREO",0.2623
+"122","Nechalacho Basal","Avalon Rare Metals Inc.","Measured + Indicated","HREO",0.289894102439813
+"123","Nechalacho Upper","Avalon Rare Metals Inc.","Measured + Indicated","HREO",0.1065
+"124","Ngualla","Peak Resources Ltd.","Measured + Indicated","HREO",0.0187614514285714
+"125","Nolans","Arafura Resources Ltd.","Measured + Indicated","HREO",0.0526700395256917
+"126","Norra Kärr","Tasman Metals Ltd.","Measured + Indicated","HREO",0.26909
+"127","Olserum","Tasman Metals Ltd.","Measured + Indicated","HREO",0.184
+"128","Round Top","Texas Rare Earth Resources Corp.","Measured + Indicated","HREO",0.0447521507394821
+"129","Sarfartoq","Hudson Resources Inc.","Measured + Indicated","HREO",0.0116
+"130","Songwe Hill","Mkango Resources Ltd.","Measured + Indicated","HREO",0.083525379
+"131","Steenkampskraal - In Situ","Great Western Minerals  Ltd.","Measured + Indicated","HREO",0.883289803220036
+"132","Steenkampskraal - Tailings","Great Western Minerals  Ltd.","Measured + Indicated","HREO",0.457
+"133","Strange Lake Enriched","Quest Rare Minerals Ltd.","Measured + Indicated","HREO",0.675
+"134","Strange Lake Granite","Quest Rare Minerals Ltd.","Measured + Indicated","HREO",0.314
+"135","Tantalus","Tantalus Rare Earths AG","Measured + Indicated","HREO",0.0148327038470294
+"136","Xiluvo","Promac Lda.","Measured + Indicated","HREO",0.11
+"137","Yangibana ","Hastings Rare Metals Limited","Measured + Indicated","HREO",0.016714254
+"138","Zandkopsdrift ","Frontier Rare Earths Ltd.","Measured + Indicated","HREO",0.132519321
+"139","Aksu Diamas","AMR Mineral Metal Inc.","Measured + Indicated + Inferred","HREO",0.005161
+"140","Araxá","MBAC Fertilizer Corp.","Measured + Indicated + Inferred","HREO",0.0694302580417109
+"141","Ashram MHREO","Commerce Resources Corp.","Measured + Indicated + Inferred","HREO",0.0918300534759358
+"142","Ashram Total","Commerce Resources Corp.","Measured + Indicated + Inferred","HREO",0.0462552156106962
+"143","Bear Lodge","Rare Element Resources Ltd.","Measured + Indicated + Inferred","HREO",0.0554237810344828
+"144","Bokan - Dotson","Ucore Rare Metals Inc.","Measured + Indicated + Inferred","HREO",0.219954167511661
+"145","Brockmans","Hastings Rare Metals Limited","Measured + Indicated + Inferred","HREO",0.1725
+"146","Browns Range","Northern Minerals Limited","Measured + Indicated + Inferred","HREO",0.495701141913043
+"147","Buckton","DNI Metals Inc.","Measured + Indicated + Inferred","HREO",0.00563192043378147
+"148","Buckton South","DNI Metals Inc.","Measured + Indicated + Inferred","HREO",0.0056
+"149","Charley Creek - Cattle Creek ","Crossland Strategic Metals Ltd.","Measured + Indicated + Inferred","HREO",0.527053370916929
+"150","Charley Creek - Western Dam ","Crossland Strategic Metals Ltd.","Measured + Indicated + Inferred","HREO",0.568154144411474
+"151","Clay-Howells","Canada Rare Earth Corp.","Measured + Indicated + Inferred","HREO",0.054
+"152","Dubbo Zirconia Project","Alkane Resources Ltd.","Measured + Indicated + Inferred","HREO",0.1869
+"153","Eco Ridge","Pele Mountain Resources Inc.","Measured + Indicated + Inferred","HREO",0.0115383505050335
+"154","Elliott Lake Teasdale","Appia Energy Corp.","Measured + Indicated + Inferred","HREO",0.0107379235448238
+"155","Foxtrot","Search Minerals Inc.","Measured + Indicated + Inferred","HREO",0.180962454077884
+"156","Glenover ","Galileo Resources PLC","Measured + Indicated + Inferred","HREO",0.0487012090087113
+"157","Hoidas Lake ","Great Western Minerals  Ltd.","Measured + Indicated + Inferred","HREO",0.0355513706269707
+"158","Kipawa","Matamec Explorations Inc.","Measured + Indicated + Inferred","HREO",0.129926794470046
+"159","Lavergne-Springer","Canada Rare Earth Corp.","Measured + Indicated + Inferred","HREO",0.036958991656311
+"160","Lofdal","Namibia Rare Earths Inc.","Measured + Indicated + Inferred","HREO",0.474454545454545
+"161","Milo","GBM Resources Ltd.","Measured + Indicated + Inferred","HREO",0.0065
+"162","Montviel","Geomega Resources Inc.","Measured + Indicated + Inferred","HREO",0.0116927773343974
+"163","Mount Weld CLD","Lynas Corporation Ltd.","Measured + Indicated + Inferred","HREO",0.0609028187919463
+"164","Mount Weld Duncan","Lynas Corporation Ltd.","Measured + Indicated + Inferred","HREO",0.38454
+"165","Mrima Hill High Grade","Pacific Wildcat Resources Corp.","Measured + Indicated + Inferred","HREO",0.277006016304872
+"166","Mrima Hill Main","Pacific Wildcat Resources Corp.","Measured + Indicated + Inferred","HREO",0.2623025907458
+"167","Nechalacho Basal","Avalon Rare Metals Inc.","Measured + Indicated + Inferred","HREO",0.251527346938775
+"168","Nechalacho Upper","Avalon Rare Metals Inc.","Measured + Indicated + Inferred","HREO",0.0971320629604822
+"169","Ngualla","Peak Resources Ltd.","Measured + Indicated + Inferred","HREO",0.0183575076923077
+"170","Nolans","Arafura Resources Ltd.","Measured + Indicated + Inferred","HREO",0.0594281606765328
+"171","Norra Kärr","Tasman Metals Ltd.","Measured + Indicated + Inferred","HREO",0.274934578313253
+"172","Olserum","Tasman Metals Ltd.","Measured + Indicated + Inferred","HREO",0.182307692307692
+"173","Round Top","Texas Rare Earth Resources Corp.","Measured + Indicated + Inferred","HREO",0.0445948319956234
+"174","Sarfartoq","Hudson Resources Inc.","Measured + Indicated + Inferred","HREO",0.0115115785688601
+"175","Songwe Hill","Mkango Resources Ltd.","Measured + Indicated + Inferred","HREO",0.0789218884097638
+"176","Steenkampskraal - In Situ","Great Western Minerals  Ltd.","Measured + Indicated + Inferred","HREO",0.857187399030695
+"177","Steenkampskraal - Tailings","Great Western Minerals  Ltd.","Measured + Indicated + Inferred","HREO",0.457
+"178","Strange Lake Enriched","Quest Rare Minerals Ltd.","Measured + Indicated + Inferred","HREO",0.675
+"179","Strange Lake Granite","Quest Rare Minerals Ltd.","Measured + Indicated + Inferred","HREO",0.294944924321476
+"180","Tantalus","Tantalus Rare Earths AG","Measured + Indicated + Inferred","HREO",0.0135223926969738
+"181","Two Tom","Canada Rare Earth Corp.","Measured + Indicated + Inferred","HREO",0.052
+"182","Wigu Hill Twiga","Montero Mining and Exploration Ltd.","Measured + Indicated + Inferred","HREO",0.00759
+"183","Xiluvo","Promac Lda.","Measured + Indicated + Inferred","HREO",0.11
+"184","Yangibana ","Hastings Rare Metals Limited","Measured + Indicated + Inferred","HREO",0.0159527676863034
+"185","Zandkopsdrift ","Frontier Rare Earths Ltd.","Measured + Indicated + Inferred","HREO",0.12963747693291
+"186","Bear Lodge","Rare Element Resources Ltd.","Proven + Probable","HREO",0.0544997879858657
+"187","Dubbo Zirconia Project","Alkane Resources Ltd.","Proven + Probable","HREO",0.185271667130532
+"188","Kipawa","Matamec Explorations Inc.","Proven + Probable","HREO",0.1368
+"189","Mount Weld CLD","Lynas Corporation Ltd.","Proven + Probable","HREO",0.0739113402061856
+"190","Mountain Pass","Molycorp Inc.","Proven + Probable","HREO",0.00958077574218442
+"191","Nechalacho Basal","Avalon Rare Metals Inc.","Proven + Probable","HREO",0.385567760075342
+"192","Ngualla","Peak Resources Ltd.","Proven + Probable","HREO",0.0172586086956522
+"193","Norra Kärr","Tasman Metals Ltd.","Proven + Probable","HREO",0.29253
+"194","Strange Lake Enriched","Quest Rare Minerals Ltd.","Proven + Probable","HREO",0.4984
+"195","Araxá","MBAC Fertilizer Corp.","Measured + Indicated","LREO",4.91871007874016
+"196","Ashram MHREO","Commerce Resources Corp.","Measured + Indicated","LREO",1.54043932926829
+"197","Ashram Total","Commerce Resources Corp.","Measured + Indicated","LREO",1.83862727272727
+"198","Bear Lodge","Rare Element Resources Ltd.","Measured + Indicated","LREO",3.0233505853358
+"199","Bokan - Dotson","Ucore Rare Metals Inc.","Measured + Indicated","LREO",0.391
+"200","Brockmans","Hastings Rare Metals Limited","Measured + Indicated","LREO",0.0377
+"201","Browns Range","Northern Minerals Limited","Measured + Indicated","LREO",0.146634097
+"202","Buckton","DNI Metals Inc.","Measured + Indicated","LREO",0.01972
+"203","Charley Creek - Cattle Creek ","Crossland Strategic Metals Ltd.","Measured + Indicated","LREO",2.2848
+"204","Charley Creek - Western Dam ","Crossland Strategic Metals Ltd.","Measured + Indicated","LREO",2.62752
+"205","Dubbo Zirconia Project","Alkane Resources Ltd.","Measured + Indicated","LREO",0.7031
+"206","Eco Ridge","Pele Mountain Resources Inc.","Measured + Indicated","LREO",0.1484
+"207","Elliott Lake Teasdale","Appia Energy Corp.","Measured + Indicated","LREO",0.18216022
+"208","Foxtrot","Search Minerals Inc.","Measured + Indicated","LREO",0.8515
+"209","Glenover ","Galileo Resources PLC","Measured + Indicated","LREO",1.395558291
+"210","Hoidas Lake ","Great Western Minerals  Ltd.","Measured + Indicated","LREO",2.03090810769361
+"211","Kipawa","Matamec Explorations Inc.","Measured + Indicated","LREO",0.245156800938928
+"212","Lavergne-Springer","Canada Rare Earth Corp.","Measured + Indicated","LREO",1.094
+"213","Lofdal","Namibia Rare Earths Inc.","Measured + Indicated","LREO",0.122
+"214","Montviel","Geomega Resources Inc.","Measured + Indicated","LREO",1.4414
+"215","Mount Weld CLD","Lynas Corporation Ltd.","Measured + Indicated","LREO",9.94714101449275
+"216","Mount Weld Duncan","Lynas Corporation Ltd.","Measured + Indicated","LREO",4.71648
+"217","Mrima Hill High Grade","Pacific Wildcat Resources Corp.","Measured + Indicated","LREO",6.6622
+"218","Mrima Hill Main","Pacific Wildcat Resources Corp.","Measured + Indicated","LREO",4.146
+"219","Nechalacho Basal","Avalon Rare Metals Inc.","Measured + Indicated","LREO",1.35247762158669
+"220","Nechalacho Upper","Avalon Rare Metals Inc.","Measured + Indicated","LREO",1.4131
+"221","Ngualla","Peak Resources Ltd.","Measured + Indicated","LREO",2.29746712
+"222","Nolans","Arafura Resources Ltd.","Measured + Indicated","LREO",2.66582312252964
+"223","Norra Kärr","Tasman Metals Ltd.","Measured + Indicated","LREO",0.29873
+"224","Olserum","Tasman Metals Ltd.","Measured + Indicated","LREO",0.4013
+"225","Round Top","Texas Rare Earth Resources Corp.","Measured + Indicated","LREO",0.0185463105212527
+"226","Sarfartoq","Hudson Resources Inc.","Measured + Indicated","LREO",1.758
+"227","Songwe Hill","Mkango Resources Ltd.","Measured + Indicated","LREO",1.535294224
+"228","Steenkampskraal - In Situ","Great Western Minerals  Ltd.","Measured + Indicated","LREO",14.0654919499106
+"229","Steenkampskraal - Tailings","Great Western Minerals  Ltd.","Measured + Indicated","LREO",6.715
+"230","Strange Lake Enriched","Quest Rare Minerals Ltd.","Measured + Indicated","LREO",0.766
+"231","Strange Lake Granite","Quest Rare Minerals Ltd.","Measured + Indicated","LREO",0.578
+"232","Tantalus","Tantalus Rare Earths AG","Measured + Indicated","LREO",0.074913232415206
+"233","Xiluvo","Promac Lda.","Measured + Indicated","LREO",1.92
+"234","Yangibana ","Hastings Rare Metals Limited","Measured + Indicated","LREO",1.573285746
+"235","Zandkopsdrift ","Frontier Rare Earths Ltd.","Measured + Indicated","LREO",2.151499228
+"236","Aksu Diamas","AMR Mineral Metal Inc.","Measured + Indicated + Inferred","LREO",0.06455
+"237","Araxá","MBAC Fertilizer Corp.","Measured + Indicated + Inferred","LREO",4.13719155178508
+"238","Ashram MHREO","Commerce Resources Corp.","Measured + Indicated + Inferred","LREO",1.52213593582888
+"239","Ashram Total","Commerce Resources Corp.","Measured + Indicated + Inferred","LREO",1.83992698145025
+"240","Bear Lodge","Rare Element Resources Ltd.","Measured + Indicated + Inferred","LREO",2.62988396551724
+"241","Bokan - Dotson","Ucore Rare Metals Inc.","Measured + Indicated + Inferred","LREO",0.391404583248834
+"242","Brockmans","Hastings Rare Metals Limited","Measured + Indicated + Inferred","LREO",0.0377
+"243","Browns Range","Northern Minerals Limited","Measured + Indicated + Inferred","LREO",0.132510922462653
+"244","Buckton","DNI Metals Inc.","Measured + Indicated + Inferred","LREO",0.019946149315054
+"245","Buckton South","DNI Metals Inc.","Measured + Indicated + Inferred","LREO",0.01941
+"246","Charley Creek - Cattle Creek ","Crossland Strategic Metals Ltd.","Measured + Indicated + Inferred","LREO",2.33736712319682
+"247","Charley Creek - Western Dam ","Crossland Strategic Metals Ltd.","Measured + Indicated + Inferred","LREO",2.51964011869436
+"248","Clay-Howells","Canada Rare Earth Corp.","Measured + Indicated + Inferred","LREO",0.675
+"249","Dubbo Zirconia Project","Alkane Resources Ltd.","Measured + Indicated + Inferred","LREO",0.7031
+"250","Eco Ridge","Pele Mountain Resources Inc.","Measured + Indicated + Inferred","LREO",0.145132576766774
+"251","Elliott Lake Teasdale","Appia Energy Corp.","Measured + Indicated + Inferred","LREO",0.175202468807798
+"252","Foxtrot","Search Minerals Inc.","Measured + Indicated + Inferred","LREO",0.849818883174137
+"253","Glenover ","Galileo Resources PLC","Measured + Indicated + Inferred","LREO",1.20530542900781
+"254","Hoidas Lake ","Great Western Minerals  Ltd.","Measured + Indicated + Inferred","LREO",2.00855285243417
+"255","Kipawa","Matamec Explorations Inc.","Measured + Indicated + Inferred","LREO",0.241656058986175
+"256","Lavergne-Springer","Canada Rare Earth Corp.","Measured + Indicated + Inferred","LREO",1.12639694656489
+"257","Lofdal","Namibia Rare Earths Inc.","Measured + Indicated + Inferred","LREO",0.117
+"258","Milo","GBM Resources Ltd.","Measured + Indicated + Inferred","LREO",0.054
+"259","Montviel","Geomega Resources Inc.","Measured + Indicated + Inferred","LREO",1.44294373503591
+"260","Mount Weld CLD","Lynas Corporation Ltd.","Measured + Indicated + Inferred","LREO",9.54820859060403
+"261","Mount Weld Duncan","Lynas Corporation Ltd.","Measured + Indicated + Inferred","LREO",4.71648
+"262","Mrima Hill High Grade","Pacific Wildcat Resources Corp.","Measured + Indicated + Inferred","LREO",6.66221935801799
+"263","Mrima Hill Main","Pacific Wildcat Resources Corp.","Measured + Indicated + Inferred","LREO",4.14581626158079
+"264","Nechalacho Basal","Avalon Rare Metals Inc.","Measured + Indicated + Inferred","LREO",1.2652363515202
+"265","Nechalacho Upper","Avalon Rare Metals Inc.","Measured + Indicated + Inferred","LREO",1.32509609511052
+"266","Ngualla","Peak Resources Ltd.","Measured + Indicated + Inferred","LREO",2.24800146666667
+"267","Nolans","Arafura Resources Ltd.","Measured + Indicated + Inferred","LREO",2.5232077167019
+"268","Norra Kärr","Tasman Metals Ltd.","Measured + Indicated + Inferred","LREO",0.312753580034423
+"269","Olserum","Tasman Metals Ltd.","Measured + Indicated + Inferred","LREO",0.417673076923077
+"270","Round Top","Texas Rare Earth Resources Corp.","Measured + Indicated + Inferred","LREO",0.0186092721328449
+"271","Sarfartoq","Hudson Resources Inc.","Measured + Indicated + Inferred","LREO",1.70609661992089
+"272","Songwe Hill","Mkango Resources Ltd.","Measured + Indicated + Inferred","LREO",1.39877959067181
+"273","Steenkampskraal - In Situ","Great Western Minerals  Ltd.","Measured + Indicated + Inferred","LREO",13.6539741518578
+"274","Steenkampskraal - Tailings","Great Western Minerals  Ltd.","Measured + Indicated + Inferred","LREO",6.715
+"275","Strange Lake Enriched","Quest Rare Minerals Ltd.","Measured + Indicated + Inferred","LREO",0.766
+"276","Strange Lake Granite","Quest Rare Minerals Ltd.","Measured + Indicated + Inferred","LREO",0.57663892316582
+"277","Tantalus","Tantalus Rare Earths AG","Measured + Indicated + Inferred","LREO",0.0759865575089416
+"278","Two Tom","Canada Rare Earth Corp.","Measured + Indicated + Inferred","LREO",1.13
+"279","Wigu Hill Twiga","Montero Mining and Exploration Ltd.","Measured + Indicated + Inferred","LREO",2.6676
+"280","Xiluvo","Promac Lda.","Measured + Indicated + Inferred","LREO",1.92
+"281","Yangibana ","Hastings Rare Metals Limited","Measured + Indicated + Inferred","LREO",1.50736089808395
+"282","Zandkopsdrift ","Frontier Rare Earths Ltd.","Measured + Indicated + Inferred","LREO",2.10501412503766
+"283","Bear Lodge","Rare Element Resources Ltd.","Proven + Probable","LREO",2.8966296819788
+"284","Dubbo Zirconia Project","Alkane Resources Ltd.","Proven + Probable","LREO",0.696974366824381
+"285","Kipawa","Matamec Explorations Inc.","Proven + Probable","LREO",0.2736
+"286","Mount Weld CLD","Lynas Corporation Ltd.","Proven + Probable","LREO",11.5876556701031
+"287","Mountain Pass","Molycorp Inc.","Proven + Probable","LREO",7.96960862154041
+"288","Nechalacho Basal","Avalon Rare Metals Inc.","Proven + Probable","LREO",1.31493722120548
+"289","Ngualla","Peak Resources Ltd.","Proven + Probable","LREO",4.5262972173913
+"290","Norra Kärr","Tasman Metals Ltd.","Proven + Probable","LREO",0.29958
+"291","Strange Lake Enriched","Quest Rare Minerals Ltd.","Proven + Probable","LREO",0.6637
+"292","Araxá","MBAC Fertilizer Corp.","Measured + Indicated","CREO",0.728243937007874
+"293","Ashram MHREO","Commerce Resources Corp.","Measured + Indicated","CREO",0.334742073170732
+"294","Ashram Total","Commerce Resources Corp.","Measured + Indicated","CREO",0.334393438140807
+"295","Bear Lodge","Rare Element Resources Ltd.","Measured + Indicated","CREO",0.586427171903882
+"296","Bokan - Dotson","Ucore Rare Metals Inc.","Measured + Indicated","CREO",0.116
+"297","Brockmans","Hastings Rare Metals Limited","Measured + Indicated","CREO",0.0286
+"298","Browns Range","Northern Minerals Limited","Measured + Indicated","CREO",0.096939749
+"299","Buckton","DNI Metals Inc.","Measured + Indicated","CREO",0.00474
+"300","Charley Creek - Cattle Creek ","Crossland Strategic Metals Ltd.","Measured + Indicated","CREO",0.504
+"301","Charley Creek - Western Dam ","Crossland Strategic Metals Ltd.","Measured + Indicated","CREO",0.5796
+"302","Dubbo Zirconia Project","Alkane Resources Ltd.","Measured + Indicated","CREO",0.14685
+"303","Eco Ridge","Pele Mountain Resources Inc.","Measured + Indicated","CREO",0.0256
+"304","Elliott Lake Teasdale","Appia Energy Corp.","Measured + Indicated","CREO",0.03100702
+"305","Foxtrot","Search Minerals Inc.","Measured + Indicated","CREO",0.1994
+"306","Glenover ","Galileo Resources PLC","Measured + Indicated","CREO",0.350847894
+"307","Hoidas Lake ","Great Western Minerals  Ltd.","Measured + Indicated","CREO",0.453493684380284
+"308","Kipawa","Matamec Explorations Inc.","Measured + Indicated","CREO",0.0723393637087647
+"309","Lavergne-Springer","Canada Rare Earth Corp.","Measured + Indicated","CREO",0.208
+"310","Lofdal","Namibia Rare Earths Inc.","Measured + Indicated","CREO",0.079
+"311","Montviel","Geomega Resources Inc.","Measured + Indicated","CREO",0.2502
+"312","Mount Weld CLD","Lynas Corporation Ltd.","Measured + Indicated","CREO",1.92658507246377
+"313","Mount Weld Duncan","Lynas Corporation Ltd.","Measured + Indicated","CREO",1.02969
+"314","Mrima Hill High Grade","Pacific Wildcat Resources Corp.","Measured + Indicated","CREO",1.0997
+"315","Mrima Hill Main","Pacific Wildcat Resources Corp.","Measured + Indicated","CREO",0.725
+"316","Nechalacho Basal","Avalon Rare Metals Inc.","Measured + Indicated","CREO",0.345571756341897
+"317","Nechalacho Upper","Avalon Rare Metals Inc.","Measured + Indicated","CREO",0.3246
+"318","Ngualla","Peak Resources Ltd.","Measured + Indicated","CREO",0.390979382857143
+"319","Nolans","Arafura Resources Ltd.","Measured + Indicated","CREO",0.582408735177866
+"320","Norra Kärr","Tasman Metals Ltd.","Measured + Indicated","CREO",0.09389
+"321","Olserum","Tasman Metals Ltd.","Measured + Indicated","CREO",0.114
+"322","Round Top","Texas Rare Earth Resources Corp.","Measured + Indicated","CREO",0.00728187316493105
+"323","Sarfartoq","Hudson Resources Inc.","Measured + Indicated","CREO",0.3415
+"324","Songwe Hill","Mkango Resources Ltd.","Measured + Indicated","CREO",0.290651443
+"325","Steenkampskraal - In Situ","Great Western Minerals  Ltd.","Measured + Indicated","CREO",2.8805366726297
+"326","Steenkampskraal - Tailings","Great Western Minerals  Ltd.","Measured + Indicated","CREO",1.375
+"327","Strange Lake Enriched","Quest Rare Minerals Ltd.","Measured + Indicated","CREO",0.217
+"328","Strange Lake Granite","Quest Rare Minerals Ltd.","Measured + Indicated","CREO",0.148
+"329","Tantalus","Tantalus Rare Earths AG","Measured + Indicated","CREO",0.0159306332802185
+"330","Xiluvo","Promac Lda.","Measured + Indicated","CREO",0.38
+"331","Yangibana ","Hastings Rare Metals Limited","Measured + Indicated","CREO",0.390929767
+"332","Zandkopsdrift ","Frontier Rare Earths Ltd.","Measured + Indicated","CREO",0.397588872
+"333","Aksu Diamas","AMR Mineral Metal Inc.","Measured + Indicated + Inferred","CREO",0.0112
+"334","Araxá","MBAC Fertilizer Corp.","Measured + Indicated + Inferred","CREO",0.611801449275362
+"335","Ashram MHREO","Commerce Resources Corp.","Measured + Indicated + Inferred","CREO",0.330462459893048
+"336","Ashram Total","Commerce Resources Corp.","Measured + Indicated + Inferred","CREO",0.332457688910303
+"337","Bear Lodge","Rare Element Resources Ltd.","Measured + Indicated + Inferred","CREO",0.51806324137931
+"338","Bokan - Dotson","Ucore Rare Metals Inc.","Measured + Indicated + Inferred","CREO",0.116404583248834
+"339","Brockmans","Hastings Rare Metals Limited","Measured + Indicated + Inferred","CREO",0.0286
+"340","Browns Range","Northern Minerals Limited","Measured + Indicated + Inferred","CREO",0.0867891406789298
+"341","Buckton","DNI Metals Inc.","Measured + Indicated + Inferred","CREO",0.00487192043378147
+"342","Buckton South","DNI Metals Inc.","Measured + Indicated + Inferred","CREO",0.00484
+"343","Charley Creek - Cattle Creek ","Crossland Strategic Metals Ltd.","Measured + Indicated + Inferred","CREO",0.515595688940474
+"344","Charley Creek - Western Dam ","Crossland Strategic Metals Ltd.","Measured + Indicated + Inferred","CREO",0.555802967359051
+"345","Clay-Howells","Canada Rare Earth Corp.","Measured + Indicated + Inferred","CREO",0.125
+"346","Dubbo Zirconia Project","Alkane Resources Ltd.","Measured + Indicated + Inferred","CREO",0.14685
+"347","Eco Ridge","Pele Mountain Resources Inc.","Measured + Indicated + Inferred","CREO",0.0251068040402678
+"348","Elliott Lake Teasdale","Appia Energy Corp.","Measured + Indicated + Inferred","CREO",0.0155239703433975
+"349","Foxtrot","Search Minerals Inc.","Measured + Indicated + Inferred","CREO",0.1983654665687
+"350","Glenover ","Galileo Resources PLC","Measured + Indicated + Inferred","CREO",0.300858288588012
+"351","Hoidas Lake ","Great Western Minerals  Ltd.","Measured + Indicated + Inferred","CREO",0.446947550460093
+"352","Kipawa","Matamec Explorations Inc.","Measured + Indicated + Inferred","CREO",0.070334665437788
+"353","Lavergne-Springer","Canada Rare Earth Corp.","Measured + Indicated + Inferred","CREO",0.196698739570389
+"354","Lofdal","Namibia Rare Earths Inc.","Measured + Indicated + Inferred","CREO",0.0753636363636364
+"355","Milo","GBM Resources Ltd.","Measured + Indicated + Inferred","CREO",0.0092
+"356","Montviel","Geomega Resources Inc.","Measured + Indicated + Inferred","CREO",0.249747525937749
+"357","Mount Weld CLD","Lynas Corporation Ltd.","Measured + Indicated + Inferred","CREO",1.8493189261745
+"358","Mount Weld Duncan","Lynas Corporation Ltd.","Measured + Indicated + Inferred","CREO",1.02969
+"359","Mrima Hill High Grade","Pacific Wildcat Resources Corp.","Measured + Indicated + Inferred","CREO",1.09969940115484
+"360","Mrima Hill Main","Pacific Wildcat Resources Corp.","Measured + Indicated + Inferred","CREO",0.724973774380238
+"361","Nechalacho Basal","Avalon Rare Metals Inc.","Measured + Indicated + Inferred","CREO",0.322573361099542
+"362","Nechalacho Upper","Avalon Rare Metals Inc.","Measured + Indicated + Inferred","CREO",0.3044965438714
+"363","Ngualla","Peak Resources Ltd.","Measured + Indicated + Inferred","CREO",0.382561394871795
+"364","Nolans","Arafura Resources Ltd.","Measured + Indicated + Inferred","CREO",0.560562811839324
+"365","Norra Kärr","Tasman Metals Ltd.","Measured + Indicated + Inferred","CREO",0.0974512736660929
+"366","Olserum","Tasman Metals Ltd.","Measured + Indicated + Inferred","CREO",0.116538461538462
+"367","Round Top","Texas Rare Earth Resources Corp.","Measured + Indicated + Inferred","CREO",0.0072896589582596
+"368","Sarfartoq","Hudson Resources Inc.","Measured + Indicated + Inferred","CREO",0.334809445043749
+"369","Songwe Hill","Mkango Resources Ltd.","Measured + Indicated + Inferred","CREO",0.264164062620472
+"370","Steenkampskraal - In Situ","Great Western Minerals  Ltd.","Measured + Indicated + Inferred","CREO",2.79809369951535
+"371","Steenkampskraal - Tailings","Great Western Minerals  Ltd.","Measured + Indicated + Inferred","CREO",1.375
+"372","Strange Lake Enriched","Quest Rare Minerals Ltd.","Measured + Indicated + Inferred","CREO",0.217
+"373","Strange Lake Granite","Quest Rare Minerals Ltd.","Measured + Indicated + Inferred","CREO",0.145731538609699
+"374","Tantalus","Tantalus Rare Earths AG","Measured + Indicated + Inferred","CREO",0.0157589351983877
+"375","Two Tom","Canada Rare Earth Corp.","Measured + Indicated + Inferred","CREO",0.201
+"376","Wigu Hill Twiga","Montero Mining and Exploration Ltd.","Measured + Indicated + Inferred","CREO",0.23509
+"377","Xiluvo","Promac Lda.","Measured + Indicated + Inferred","CREO",0.38
+"378","Yangibana ","Hastings Rare Metals Limited","Measured + Indicated + Inferred","CREO",0.366792589885125
+"379","Zandkopsdrift ","Frontier Rare Earths Ltd.","Measured + Indicated + Inferred","CREO",0.389006591490113
+"380","Bear Lodge","Rare Element Resources Ltd.","Proven + Probable","CREO",0.564203604240283
+"381","Dubbo Zirconia Project","Alkane Resources Ltd.","Proven + Probable","CREO",0.145570595602561
+"382","Kipawa","Matamec Explorations Inc.","Proven + Probable","CREO",0.0732
+"383","Mount Weld CLD","Lynas Corporation Ltd.","Proven + Probable","CREO",2.24432371134021
+"384","Mountain Pass","Molycorp Inc.","Proven + Probable","CREO",0.944504808583681
+"385","Nechalacho Basal","Avalon Rare Metals Inc.","Proven + Probable","CREO",0.358415065726027
+"386","Ngualla","Peak Resources Ltd.","Proven + Probable","CREO",0.773458173913044
+"387","Norra Kärr","Tasman Metals Ltd.","Proven + Probable","CREO",0.09784
+"388","Strange Lake Enriched","Quest Rare Minerals Ltd.","Proven + Probable","CREO",0.1782
+"389","Araxá","MBAC Fertilizer Corp.","Measured + Indicated","MREO",1.0124137007874
+"390","Ashram MHREO","Commerce Resources Corp.","Measured + Indicated","MREO",0.451528353658537
+"391","Ashram Total","Commerce Resources Corp.","Measured + Indicated","MREO",0.456166267942584
+"392","Bear Lodge","Rare Element Resources Ltd.","Measured + Indicated","MREO",0.808211521873074
+"393","Bokan - Dotson","Ucore Rare Metals Inc.","Measured + Indicated","MREO",0.156
+"394","Brockmans","Hastings Rare Metals Limited","Measured + Indicated","MREO",0.0348
+"395","Browns Range","Northern Minerals Limited","Measured + Indicated","MREO",0.114856733
+"396","Buckton","DNI Metals Inc.","Measured + Indicated","MREO",0.00636
+"397","Charley Creek - Cattle Creek ","Crossland Strategic Metals Ltd.","Measured + Indicated","MREO",0.6832
+"398","Charley Creek - Western Dam ","Crossland Strategic Metals Ltd.","Measured + Indicated","MREO",0.78568
+"399","Dubbo Zirconia Project","Alkane Resources Ltd.","Measured + Indicated","MREO",0.20381
+"400","Eco Ridge","Pele Mountain Resources Inc.","Measured + Indicated","MREO",0.0367
+"401","Elliott Lake Teasdale","Appia Energy Corp.","Measured + Indicated","MREO",0.04421236
+"402","Foxtrot","Search Minerals Inc.","Measured + Indicated","MREO",0.2745
+"403","Glenover ","Galileo Resources PLC","Measured + Indicated","MREO",0.474859281
+"404","Hoidas Lake ","Great Western Minerals  Ltd.","Measured + Indicated","MREO",0.627035328022489
+"405","Kipawa","Matamec Explorations Inc.","Measured + Indicated","MREO",0.0974428050467368
+"406","Lavergne-Springer","Canada Rare Earth Corp.","Measured + Indicated","MREO",0.282
+"407","Lofdal","Namibia Rare Earths Inc.","Measured + Indicated","MREO",0.084
+"408","Montviel","Geomega Resources Inc.","Measured + Indicated","MREO",0.3456
+"409","Mount Weld CLD","Lynas Corporation Ltd.","Measured + Indicated","MREO",2.64666260869565
+"410","Mount Weld Duncan","Lynas Corporation Ltd.","Measured + Indicated","MREO",1.377
+"411","Mrima Hill High Grade","Pacific Wildcat Resources Corp.","Measured + Indicated","MREO",1.5076
+"412","Mrima Hill Main","Pacific Wildcat Resources Corp.","Measured + Indicated","MREO",0.9879
+"413","Nechalacho Basal","Avalon Rare Metals Inc.","Measured + Indicated","MREO",0.474676458232348
+"414","Nechalacho Upper","Avalon Rare Metals Inc.","Measured + Indicated","MREO",0.4555
+"415","Ngualla","Peak Resources Ltd.","Measured + Indicated","MREO",0.532964194285714
+"416","Nolans","Arafura Resources Ltd.","Measured + Indicated","MREO",0.796918577075099
+"417","Norra Kärr","Tasman Metals Ltd.","Measured + Indicated","MREO",0.12446
+"418","Olserum","Tasman Metals Ltd.","Measured + Indicated","MREO",0.1353
+"419","Round Top","Texas Rare Earth Resources Corp.","Measured + Indicated","MREO",0.00967132697042222
+"420","Sarfartoq","Hudson Resources Inc.","Measured + Indicated","MREO",0.4677
+"421","Songwe Hill","Mkango Resources Ltd.","Measured + Indicated","MREO",0.39765775
+"422","Steenkampskraal - In Situ","Great Western Minerals  Ltd.","Measured + Indicated","MREO",4.06440071556351
+"423","Steenkampskraal - Tailings","Great Western Minerals  Ltd.","Measured + Indicated","MREO",1.93
+"424","Strange Lake Enriched","Quest Rare Minerals Ltd.","Measured + Indicated","MREO",0.29
+"425","Strange Lake Granite","Quest Rare Minerals Ltd.","Measured + Indicated","MREO",0.201
+"426","Tantalus","Tantalus Rare Earths AG","Measured + Indicated","MREO",0.022095960391532
+"427","Xiluvo","Promac Lda.","Measured + Indicated","MREO",0.52
+"428","Yangibana ","Hastings Rare Metals Limited","Measured + Indicated","MREO",0.519309035
+"429","Zandkopsdrift ","Frontier Rare Earths Ltd.","Measured + Indicated","MREO",0.541483771
+"430","Aksu Diamas","AMR Mineral Metal Inc.","Measured + Indicated + Inferred","MREO",0.01535
+"431","Araxá","MBAC Fertilizer Corp.","Measured + Indicated + Inferred","MREO",0.851246058677978
+"432","Ashram MHREO","Commerce Resources Corp.","Measured + Indicated + Inferred","MREO",0.445701176470588
+"433","Ashram Total","Commerce Resources Corp.","Measured + Indicated + Inferred","MREO",0.453460230466554
+"434","Bear Lodge","Rare Element Resources Ltd.","Measured + Indicated + Inferred","MREO",0.711916172413793
+"435","Bokan - Dotson","Ucore Rare Metals Inc.","Measured + Indicated + Inferred","MREO",0.156404583248834
+"436","Brockmans","Hastings Rare Metals Limited","Measured + Indicated + Inferred","MREO",0.0348
+"437","Browns Range","Northern Minerals Limited","Measured + Indicated + Inferred","MREO",0.102730637477146
+"438","Buckton","DNI Metals Inc.","Measured + Indicated + Inferred","MREO",0.00653903487441772
+"439","Buckton South","DNI Metals Inc.","Measured + Indicated + Inferred","MREO",0.00649
+"440","Charley Creek - Cattle Creek ","Crossland Strategic Metals Ltd.","Measured + Indicated + Inferred","MREO",0.698918600563754
+"441","Charley Creek - Western Dam ","Crossland Strategic Metals Ltd.","Measured + Indicated + Inferred","MREO",0.753421800197824
+"442","Clay-Howells","Canada Rare Earth Corp.","Measured + Indicated + Inferred","MREO",0.17
+"443","Dubbo Zirconia Project","Alkane Resources Ltd.","Measured + Indicated + Inferred","MREO",0.20381
+"444","Eco Ridge","Pele Mountain Resources Inc.","Measured + Indicated + Inferred","MREO",0.0359602060604017
+"445","Elliott Lake Teasdale","Appia Energy Corp.","Measured + Indicated + Inferred","MREO",0.0422992034107205
+"446","Foxtrot","Search Minerals Inc.","Measured + Indicated + Inferred","MREO",0.273126010286554
+"447","Glenover ","Galileo Resources PLC","Measured + Indicated + Inferred","MREO",0.406187766787749
+"448","Hoidas Lake ","Great Western Minerals  Ltd.","Measured + Indicated + Inferred","MREO",0.618334825865311
+"449","Kipawa","Matamec Explorations Inc.","Measured + Indicated + Inferred","MREO",0.0948112
+"450","Lavergne-Springer","Canada Rare Earth Corp.","Measured + Indicated + Inferred","MREO",0.268438487484467
+"451","Lofdal","Namibia Rare Earths Inc.","Measured + Indicated + Inferred","MREO",0.0803636363636364
+"452","Milo","GBM Resources Ltd.","Measured + Indicated + Inferred","MREO",0.0124
+"453","Montviel","Geomega Resources Inc.","Measured + Indicated + Inferred","MREO",0.345227374301676
+"454","Mount Weld CLD","Lynas Corporation Ltd.","Measured + Indicated + Inferred","MREO",2.54051758389262
+"455","Mount Weld Duncan","Lynas Corporation Ltd.","Measured + Indicated + Inferred","MREO",1.377
+"456","Mrima Hill High Grade","Pacific Wildcat Resources Corp.","Measured + Indicated + Inferred","MREO",1.50759963790758
+"457","Mrima Hill Main","Pacific Wildcat Resources Corp.","Measured + Indicated + Inferred","MREO",0.987863229590317
+"458","Nechalacho Basal","Avalon Rare Metals Inc.","Measured + Indicated + Inferred","MREO",0.442713186172428
+"459","Nechalacho Upper","Avalon Rare Metals Inc.","Measured + Indicated + Inferred","MREO",0.42493454119223
+"460","Ngualla","Peak Resources Ltd.","Measured + Indicated + Inferred","MREO",0.5214892
+"461","Nolans","Arafura Resources Ltd.","Measured + Indicated + Inferred","MREO",0.763598308668076
+"462","Norra Kärr","Tasman Metals Ltd.","Measured + Indicated + Inferred","MREO",0.129588915662651
+"463","Olserum","Tasman Metals Ltd.","Measured + Indicated + Inferred","MREO",0.147865384615385
+"464","Round Top","Texas Rare Earth Resources Corp.","Measured + Indicated + Inferred","MREO",0.00968541901421286
+"465","Sarfartoq","Hudson Resources Inc.","Measured + Indicated + Inferred","MREO",0.458386275919933
+"466","Songwe Hill","Mkango Resources Ltd.","Measured + Indicated + Inferred","MREO",0.361434739779528
+"467","Steenkampskraal - In Situ","Great Western Minerals  Ltd.","Measured + Indicated + Inferred","MREO",3.94668820678514
+"468","Steenkampskraal - Tailings","Great Western Minerals  Ltd.","Measured + Indicated + Inferred","MREO",1.93
+"469","Strange Lake Enriched","Quest Rare Minerals Ltd.","Measured + Indicated + Inferred","MREO",0.29
+"470","Strange Lake Granite","Quest Rare Minerals Ltd.","Measured + Indicated + Inferred","MREO",0.197824154053579
+"471","Tantalus","Tantalus Rare Earths AG","Measured + Indicated + Inferred","MREO",0.021906911794929
+"472","Two Tom","Canada Rare Earth Corp.","Measured + Indicated + Inferred","MREO",0.286
+"473","Wigu Hill Twiga","Montero Mining and Exploration Ltd.","Measured + Indicated + Inferred","MREO",0.34199
+"474","Xiluvo","Promac Lda.","Measured + Indicated + Inferred","MREO",0.52
+"475","Yangibana ","Hastings Rare Metals Limited","Measured + Indicated + Inferred","MREO",0.490655565082474
+"476","Zandkopsdrift ","Frontier Rare Earths Ltd.","Measured + Indicated + Inferred","MREO",0.529778719110169
+"477","Bear Lodge","Rare Element Resources Ltd.","Proven + Probable","MREO",0.775711731448763
+"478","Dubbo Zirconia Project","Alkane Resources Ltd.","Proven + Probable","MREO",0.202034341775675
+"479","Kipawa","Matamec Explorations Inc.","Proven + Probable","MREO",0.0986
+"480","Mount Weld CLD","Lynas Corporation Ltd.","Proven + Probable","MREO",3.0831587628866
+"481","Mountain Pass","Molycorp Inc.","Proven + Probable","MREO",1.33252622614215
+"482","Nechalacho Basal","Avalon Rare Metals Inc.","Proven + Probable","MREO",0.486468167493151
+"483","Ngualla","Peak Resources Ltd.","Proven + Probable","MREO",1.0477792173913
+"484","Norra Kärr","Tasman Metals Ltd.","Proven + Probable","MREO",0.12956
+"485","Strange Lake Enriched","Quest Rare Minerals Ltd.","Proven + Probable","MREO",0.241
+"486","Araxá","MBAC Fertilizer Corp.","Measured + Indicated","Tonnage",6350000
+"487","Ashram MHREO","Commerce Resources Corp.","Measured + Indicated","Tonnage",6560000
+"488","Ashram Total","Commerce Resources Corp.","Measured + Indicated","Tonnage",29260000
+"489","Bear Lodge","Rare Element Resources Ltd.","Measured + Indicated","Tonnage",16230000
+"490","Bokan - Dotson","Ucore Rare Metals Inc.","Measured + Indicated","Tonnage",2936000
+"491","Brockmans","Hastings Rare Metals Limited","Measured + Indicated","Tonnage",27100000
+"492","Browns Range","Northern Minerals Limited","Measured + Indicated","Tonnage",4690000
+"493","Buckton","DNI Metals Inc.","Measured + Indicated","Tonnage",271938000
+"494","Charley Creek - Cattle Creek ","Crossland Strategic Metals Ltd.","Measured + Indicated","Tonnage",249900000
+"495","Charley Creek - Western Dam ","Crossland Strategic Metals Ltd.","Measured + Indicated","Tonnage",1.37e+08
+"496","Dubbo Zirconia Project","Alkane Resources Ltd.","Measured + Indicated","Tonnage",35700000
+"497","Eco Ridge","Pele Mountain Resources Inc.","Measured + Indicated","Tonnage",22743000
+"498","Elliott Lake Teasdale","Appia Energy Corp.","Measured + Indicated","Tonnage",13095000
+"499","Foxtrot","Search Minerals Inc.","Measured + Indicated","Tonnage",3423000
+"500","Glenover ","Galileo Resources PLC","Measured + Indicated","Tonnage",16781000
+"501","Hoidas Lake ","Great Western Minerals  Ltd.","Measured + Indicated","Tonnage",2529918
+"502","Kipawa","Matamec Explorations Inc.","Measured + Indicated","Tonnage",23857000
+"503","Lavergne-Springer","Canada Rare Earth Corp.","Measured + Indicated","Tonnage",4167000
+"504","Lofdal","Namibia Rare Earths Inc.","Measured + Indicated","Tonnage",9e+05
+"505","Montviel","Geomega Resources Inc.","Measured + Indicated","Tonnage",183900000
+"506","Mount Weld CLD","Lynas Corporation Ltd.","Measured + Indicated","Tonnage",13800000
+"507","Mount Weld Duncan","Lynas Corporation Ltd.","Measured + Indicated","Tonnage",8424000
+"508","Mrima Hill High Grade","Pacific Wildcat Resources Corp.","Measured + Indicated","Tonnage",11200000
+"509","Mrima Hill Main","Pacific Wildcat Resources Corp.","Measured + Indicated","Tonnage",48700000
+"510","Nechalacho Basal","Avalon Rare Metals Inc.","Measured + Indicated","Tonnage",61890000
+"511","Nechalacho Upper","Avalon Rare Metals Inc.","Measured + Indicated","Tonnage",47210000
+"512","Ngualla","Peak Resources Ltd.","Measured + Indicated","Tonnage",1.75e+08
+"513","Nolans","Arafura Resources Ltd.","Measured + Indicated","Tonnage",25300000
+"514","Norra Kärr","Tasman Metals Ltd.","Measured + Indicated","Tonnage",41600000
+"515","Olserum","Tasman Metals Ltd.","Measured + Indicated","Tonnage",4500000
+"516","Round Top","Texas Rare Earth Resources Corp.","Measured + Indicated","Tonnage",479752000
+"517","Sarfartoq","Hudson Resources Inc.","Measured + Indicated","Tonnage",5884000
+"518","Songwe Hill","Mkango Resources Ltd.","Measured + Indicated","Tonnage",13160000
+"519","Steenkampskraal - In Situ","Great Western Minerals  Ltd.","Measured + Indicated","Tonnage",559000
+"520","Steenkampskraal - Tailings","Great Western Minerals  Ltd.","Measured + Indicated","Tonnage",46000
+"521","Strange Lake Enriched","Quest Rare Minerals Ltd.","Measured + Indicated","Tonnage",20020000
+"522","Strange Lake Granite","Quest Rare Minerals Ltd.","Measured + Indicated","Tonnage",258108000
+"523","Tantalus","Tantalus Rare Earths AG","Measured + Indicated","Tonnage",197685000
+"524","Xiluvo","Promac Lda.","Measured + Indicated","Tonnage",1111099
+"525","Yangibana ","Hastings Rare Metals Limited","Measured + Indicated","Tonnage",3960000
+"526","Zandkopsdrift ","Frontier Rare Earths Ltd.","Measured + Indicated","Tonnage",32350000
+"527","Aksu Diamas","AMR Mineral Metal Inc.","Measured + Indicated + Inferred","Tonnage",4.94e+08
+"528","Araxá","MBAC Fertilizer Corp.","Measured + Indicated + Inferred","Tonnage",28290000
+"529","Ashram MHREO","Commerce Resources Corp.","Measured + Indicated + Inferred","Tonnage",9350000
+"530","Ashram Total","Commerce Resources Corp.","Measured + Indicated + Inferred","Tonnage",249060000
+"531","Bear Lodge","Rare Element Resources Ltd.","Measured + Indicated + Inferred","Tonnage",5.8e+07
+"532","Bokan - Dotson","Ucore Rare Metals Inc.","Measured + Indicated + Inferred","Tonnage",4931000
+"533","Brockmans","Hastings Rare Metals Limited","Measured + Indicated + Inferred","Tonnage",36200000
+"534","Browns Range","Northern Minerals Limited","Measured + Indicated + Inferred","Tonnage",8970000
+"535","Buckton","DNI Metals Inc.","Measured + Indicated + Inferred","Tonnage",4712050000
+"536","Buckton South","DNI Metals Inc.","Measured + Indicated + Inferred","Tonnage",496698000
+"537","Charley Creek - Cattle Creek ","Crossland Strategic Metals Ltd.","Measured + Indicated + Inferred","Tonnage",603100000
+"538","Charley Creek - Western Dam ","Crossland Strategic Metals Ltd.","Measured + Indicated + Inferred","Tonnage",202200000
+"539","Clay-Howells","Canada Rare Earth Corp.","Measured + Indicated + Inferred","Tonnage",8477000
+"540","Dubbo Zirconia Project","Alkane Resources Ltd.","Measured + Indicated + Inferred","Tonnage",73200000
+"541","Eco Ridge","Pele Mountain Resources Inc.","Measured + Indicated + Inferred","Tonnage",59303000
+"542","Elliott Lake Teasdale","Appia Energy Corp.","Measured + Indicated + Inferred","Tonnage",51602000
+"543","Foxtrot","Search Minerals Inc.","Measured + Indicated + Inferred","Tonnage",4083000
+"544","Glenover ","Galileo Resources PLC","Measured + Indicated + Inferred","Tonnage",28928000
+"545","Hoidas Lake ","Great Western Minerals  Ltd.","Measured + Indicated + Inferred","Tonnage",2797260
+"546","Kipawa","Matamec Explorations Inc.","Measured + Indicated + Inferred","Tonnage",27125000
+"547","Lavergne-Springer","Canada Rare Earth Corp.","Measured + Indicated + Inferred","Tonnage",16899000
+"548","Lofdal","Namibia Rare Earths Inc.","Measured + Indicated + Inferred","Tonnage",1650000
+"549","Milo","GBM Resources Ltd.","Measured + Indicated + Inferred","Tonnage",1.76e+08
+"550","Montviel","Geomega Resources Inc.","Measured + Indicated + Inferred","Tonnage",250600000
+"551","Mount Weld CLD","Lynas Corporation Ltd.","Measured + Indicated + Inferred","Tonnage",14900000
+"552","Mount Weld Duncan","Lynas Corporation Ltd.","Measured + Indicated + Inferred","Tonnage",8993000
+"553","Mrima Hill High Grade","Pacific Wildcat Resources Corp.","Measured + Indicated + Inferred","Tonnage",11201560
+"554","Mrima Hill Main","Pacific Wildcat Resources Corp.","Measured + Indicated + Inferred","Tonnage",48711070
+"555","Nechalacho Basal","Avalon Rare Metals Inc.","Measured + Indicated + Inferred","Tonnage",120050000
+"556","Nechalacho Upper","Avalon Rare Metals Inc.","Measured + Indicated + Inferred","Tonnage",149300000
+"557","Ngualla","Peak Resources Ltd.","Measured + Indicated + Inferred","Tonnage",1.95e+08
+"558","Nolans","Arafura Resources Ltd.","Measured + Indicated + Inferred","Tonnage",47300000
+"559","Norra Kärr","Tasman Metals Ltd.","Measured + Indicated + Inferred","Tonnage",58100000
+"560","Olserum","Tasman Metals Ltd.","Measured + Indicated + Inferred","Tonnage",7800000
+"561","Round Top","Texas Rare Earth Resources Corp.","Measured + Indicated + Inferred","Tonnage",821650000
+"562","Sarfartoq","Hudson Resources Inc.","Measured + Indicated + Inferred","Tonnage",8343000
+"563","Songwe Hill","Mkango Resources Ltd.","Measured + Indicated + Inferred","Tonnage",31750000
+"564","Steenkampskraal - In Situ","Great Western Minerals  Ltd.","Measured + Indicated + Inferred","Tonnage",619000
+"565","Steenkampskraal - Tailings","Great Western Minerals  Ltd.","Measured + Indicated + Inferred","Tonnage",46000
+"566","Strange Lake Enriched","Quest Rare Minerals Ltd.","Measured + Indicated + Inferred","Tonnage",20020000
+"567","Strange Lake Granite","Quest Rare Minerals Ltd.","Measured + Indicated + Inferred","Tonnage",472459000
+"568","Tantalus","Tantalus Rare Earths AG","Measured + Indicated + Inferred","Tonnage",627685000
+"569","Two Tom","Canada Rare Earth Corp.","Measured + Indicated + Inferred","Tonnage",40635
+"570","Wigu Hill Twiga","Montero Mining and Exploration Ltd.","Measured + Indicated + Inferred","Tonnage",1930000
+"571","Xiluvo","Promac Lda.","Measured + Indicated + Inferred","Tonnage",1111099
+"572","Yangibana ","Hastings Rare Metals Limited","Measured + Indicated + Inferred","Tonnage",6790000
+"573","Zandkopsdrift ","Frontier Rare Earths Ltd.","Measured + Indicated + Inferred","Tonnage",42480000
+"574","Bear Lodge","Rare Element Resources Ltd.","Proven + Probable","Tonnage",14150000
+"575","Dubbo Zirconia Project","Alkane Resources Ltd.","Proven + Probable","Tonnage",35930000
+"576","Kipawa","Matamec Explorations Inc.","Proven + Probable","Tonnage",19769000
+"577","Mount Weld CLD","Lynas Corporation Ltd.","Proven + Probable","Tonnage",9700000
+"578","Mountain Pass","Molycorp Inc.","Proven + Probable","Tonnage",16713063
+"579","Nechalacho Basal","Avalon Rare Metals Inc.","Proven + Probable","Tonnage",14600000
+"580","Ngualla","Peak Resources Ltd.","Proven + Probable","Tonnage",20700000
+"581","Norra Kärr","Tasman Metals Ltd.","Proven + Probable","Tonnage",23571000
+"582","Strange Lake Enriched","Quest Rare Minerals Ltd.","Proven + Probable","Tonnage",43199000
+"583","Araxá","MBAC Fertilizer Corp.","Measured + Indicated","HoT",0.0155081270247509
+"584","Ashram MHREO","Commerce Resources Corp.","Measured + Indicated","HoT",0.0571754642196644
+"585","Ashram Total","Commerce Resources Corp.","Measured + Indicated","HoT",0.0301647414804837
+"586","Bear Lodge","Rare Element Resources Ltd.","Measured + Indicated","HoT",0.0177011844143513
+"587","Bokan - Dotson","Ucore Rare Metals Inc.","Measured + Indicated","HoT",0.364227642276423
+"588","Brockmans","Hastings Rare Metals Limited","Measured + Indicated","HoT",0.820647002854424
+"589","Browns Range","Northern Minerals Limited","Measured + Indicated","HoT",0.789180041492746
+"590","Buckton","DNI Metals Inc.","Measured + Indicated","HoT",0.218080888183981
+"591","Charley Creek - Cattle Creek ","Crossland Strategic Metals Ltd.","Measured + Indicated","HoT",0.184
+"592","Charley Creek - Western Dam ","Crossland Strategic Metals Ltd.","Measured + Indicated","HoT",0.184
+"593","Dubbo Zirconia Project","Alkane Resources Ltd.","Measured + Indicated","HoT",0.21
+"594","Eco Ridge","Pele Mountain Resources Inc.","Measured + Indicated","HoT",0.0725
+"595","Elliott Lake Teasdale","Appia Energy Corp.","Measured + Indicated","HoT",0.057801988554708
+"596","Foxtrot","Search Minerals Inc.","Measured + Indicated","HoT",0.176020901877298
+"597","Glenover ","Galileo Resources PLC","Measured + Indicated","HoT",0.0385176669908103
+"598","Hoidas Lake ","Great Western Minerals  Ltd.","Measured + Indicated","HoT",0.0169803748671464
+"599","Kipawa","Matamec Explorations Inc.","Measured + Indicated","HoT",0.354882183196446
+"600","Lavergne-Springer","Canada Rare Earth Corp.","Measured + Indicated","HoT",0.0403508771929825
+"601","Lofdal","Namibia Rare Earths Inc.","Measured + Indicated","HoT",0.803542673107891
+"602","Montviel","Geomega Resources Inc.","Measured + Indicated","HoT",0.00784691629955947
+"603","Mount Weld CLD","Lynas Corporation Ltd.","Measured + Indicated","HoT",0.00633802816901408
+"604","Mount Weld Duncan","Lynas Corporation Ltd.","Measured + Indicated","HoT",0.0753849230153969
+"605","Mrima Hill High Grade","Pacific Wildcat Resources Corp.","Measured + Indicated","HoT",0.0399181461839982
+"606","Mrima Hill Main","Pacific Wildcat Resources Corp.","Measured + Indicated","HoT",0.0595013950956151
+"607","Nechalacho Basal","Avalon Rare Metals Inc.","Measured + Indicated","HoT",0.176509433399826
+"608","Nechalacho Upper","Avalon Rare Metals Inc.","Measured + Indicated","HoT",0.0700842326928139
+"609","Ngualla","Peak Resources Ltd.","Measured + Indicated","HoT",0.0081
+"610","Nolans","Arafura Resources Ltd.","Measured + Indicated","HoT",0.0193747184141784
+"611","Norra Kärr","Tasman Metals Ltd.","Measured + Indicated","HoT",0.473900179634391
+"612","Olserum","Tasman Metals Ltd.","Measured + Indicated","HoT",0.314368699812062
+"613","Round Top","Texas Rare Earth Resources Corp.","Measured + Indicated","HoT",0.707002190071289
+"614","Sarfartoq","Hudson Resources Inc.","Measured + Indicated","HoT",0.00655515370705244
+"615","Songwe Hill","Mkango Resources Ltd.","Measured + Indicated","HoT",0.0515964711850601
+"616","Steenkampskraal - In Situ","Great Western Minerals  Ltd.","Measured + Indicated","HoT",0.0590877449284492
+"617","Steenkampskraal - Tailings","Great Western Minerals  Ltd.","Measured + Indicated","HoT",0.0637200223089794
+"618","Strange Lake Enriched","Quest Rare Minerals Ltd.","Measured + Indicated","HoT",0.468424705065926
+"619","Strange Lake Granite","Quest Rare Minerals Ltd.","Measured + Indicated","HoT",0.352017937219731
+"620","Tantalus","Tantalus Rare Earths AG","Measured + Indicated","HoT",0.165274378593462
+"621","Xiluvo","Promac Lda.","Measured + Indicated","HoT",0.0541871921182266
+"622","Yangibana ","Hastings Rare Metals Limited","Measured + Indicated","HoT",0.0105121094339623
+"623","Zandkopsdrift ","Frontier Rare Earths Ltd.","Measured + Indicated","HoT",0.0580202472777729
+"624","Aksu Diamas","AMR Mineral Metal Inc.","Measured + Indicated + Inferred","HoT",0.0740342270229949
+"625","Araxá","MBAC Fertilizer Corp.","Measured + Indicated + Inferred","HoT",0.0165049916965485
+"626","Ashram MHREO","Commerce Resources Corp.","Measured + Indicated + Inferred","HoT",0.0568971428669882
+"627","Ashram Total","Commerce Resources Corp.","Measured + Indicated + Inferred","HoT",0.0245231959472267
+"628","Bear Lodge","Rare Element Resources Ltd.","Measured + Indicated + Inferred","HoT",0.020639638456953
+"629","Bokan - Dotson","Ucore Rare Metals Inc.","Measured + Indicated + Inferred","HoT",0.359779208587512
+"630","Brockmans","Hastings Rare Metals Limited","Measured + Indicated + Inferred","HoT",0.820647002854424
+"631","Browns Range","Northern Minerals Limited","Measured + Indicated + Inferred","HoT",0.789066574844691
+"632","Buckton","DNI Metals Inc.","Measured + Indicated + Inferred","HoT",0.22018551396115
+"633","Buckton South","DNI Metals Inc.","Measured + Indicated + Inferred","HoT",0.22391043582567
+"634","Charley Creek - Cattle Creek ","Crossland Strategic Metals Ltd.","Measured + Indicated + Inferred","HoT",0.184
+"635","Charley Creek - Western Dam ","Crossland Strategic Metals Ltd.","Measured + Indicated + Inferred","HoT",0.184
+"636","Clay-Howells","Canada Rare Earth Corp.","Measured + Indicated + Inferred","HoT",0.0740740740740741
+"637","Dubbo Zirconia Project","Alkane Resources Ltd.","Measured + Indicated + Inferred","HoT",0.21
+"638","Eco Ridge","Pele Mountain Resources Inc.","Measured + Indicated + Inferred","HoT",0.0736470429195562
+"639","Elliott Lake Teasdale","Appia Energy Corp.","Measured + Indicated + Inferred","HoT",0.0577492787283151
+"640","Foxtrot","Search Minerals Inc.","Measured + Indicated + Inferred","HoT",0.175558527825421
+"641","Glenover ","Galileo Resources PLC","Measured + Indicated + Inferred","HoT",0.0388364842196868
+"642","Hoidas Lake ","Great Western Minerals  Ltd.","Measured + Indicated + Inferred","HoT",0.0173921516456391
+"643","Kipawa","Matamec Explorations Inc.","Measured + Indicated + Inferred","HoT",0.349657669242678
+"644","Lavergne-Springer","Canada Rare Earth Corp.","Measured + Indicated + Inferred","HoT",0.0317692895545127
+"645","Lofdal","Namibia Rare Earths Inc.","Measured + Indicated + Inferred","HoT",0.802182600676299
+"646","Milo","GBM Resources Ltd.","Measured + Indicated + Inferred","HoT",0.107438016528926
+"647","Montviel","Geomega Resources Inc.","Measured + Indicated + Inferred","HoT",0.00803828120287193
+"648","Mount Weld CLD","Lynas Corporation Ltd.","Measured + Indicated + Inferred","HoT",0.00633802816901408
+"649","Mount Weld Duncan","Lynas Corporation Ltd.","Measured + Indicated + Inferred","HoT",0.0753849230153969
+"650","Mrima Hill High Grade","Pacific Wildcat Resources Corp.","Measured + Indicated + Inferred","HoT",0.0399188672167752
+"651","Mrima Hill Main","Pacific Wildcat Resources Corp.","Measured + Indicated + Inferred","HoT",0.0595044279732516
+"652","Nechalacho Basal","Avalon Rare Metals Inc.","Measured + Indicated + Inferred","HoT",0.165831597363733
+"653","Nechalacho Upper","Avalon Rare Metals Inc.","Measured + Indicated + Inferred","HoT",0.0682956967271867
+"654","Ngualla","Peak Resources Ltd.","Measured + Indicated + Inferred","HoT",0.0081
+"655","Nolans","Arafura Resources Ltd.","Measured + Indicated + Inferred","HoT",0.0230106617804972
+"656","Norra Kärr","Tasman Metals Ltd.","Measured + Indicated + Inferred","HoT",0.46782392057422
+"657","Olserum","Tasman Metals Ltd.","Measured + Indicated + Inferred","HoT",0.303855892817077
+"658","Round Top","Texas Rare Earth Resources Corp.","Measured + Indicated + Inferred","HoT",0.705568611572758
+"659","Sarfartoq","Hudson Resources Inc.","Measured + Indicated + Inferred","HoT",0.00670209805646128
+"660","Songwe Hill","Mkango Resources Ltd.","Measured + Indicated + Inferred","HoT",0.0534085466699374
+"661","Steenkampskraal - In Situ","Great Western Minerals  Ltd.","Measured + Indicated + Inferred","HoT",0.0590709018037366
+"662","Steenkampskraal - Tailings","Great Western Minerals  Ltd.","Measured + Indicated + Inferred","HoT",0.0637200223089794
+"663","Strange Lake Enriched","Quest Rare Minerals Ltd.","Measured + Indicated + Inferred","HoT",0.468424705065926
+"664","Strange Lake Granite","Quest Rare Minerals Ltd.","Measured + Indicated + Inferred","HoT",0.338401090350375
+"665","Tantalus","Tantalus Rare Earths AG","Measured + Indicated + Inferred","HoT",0.151073078902898
+"666","Two Tom","Canada Rare Earth Corp.","Measured + Indicated + Inferred","HoT",0.0439932318104907
+"667","Wigu Hill Twiga","Montero Mining and Exploration Ltd.","Measured + Indicated + Inferred","HoT",0.00283718165812522
+"668","Xiluvo","Promac Lda.","Measured + Indicated + Inferred","HoT",0.0541871921182266
+"669","Yangibana ","Hastings Rare Metals Limited","Measured + Indicated + Inferred","HoT",0.0104724115884807
+"670","Zandkopsdrift ","Frontier Rare Earths Ltd.","Measured + Indicated + Inferred","HoT",0.0580123885166672
+"671","Bear Lodge","Rare Element Resources Ltd.","Proven + Probable","HoT",0.0184674337539377
+"672","Dubbo Zirconia Project","Alkane Resources Ltd.","Proven + Probable","HoT",0.21
+"673","Kipawa","Matamec Explorations Inc.","Proven + Probable","HoT",0.333333333333333
+"674","Mount Weld CLD","Lynas Corporation Ltd.","Proven + Probable","HoT",0.00633802816901408
+"675","Mountain Pass","Molycorp Inc.","Proven + Probable","HoT",0.00120072043225936
+"676","Nechalacho Basal","Avalon Rare Metals Inc.","Proven + Probable","HoT",0.226737212957137
+"677","Ngualla","Peak Resources Ltd.","Proven + Probable","HoT",0.0037984806077569
+"678","Norra Kärr","Tasman Metals Ltd.","Proven + Probable","HoT",0.494046714292952
+"679","Strange Lake Enriched","Quest Rare Minerals Ltd.","Proven + Probable","HoT",0.428878753979864
+"680","Araxá","MBAC Fertilizer Corp.","Measured + Indicated","LoT",0.984491872975249
+"681","Ashram MHREO","Commerce Resources Corp.","Measured + Indicated","LoT",0.942824535780336
+"682","Ashram Total","Commerce Resources Corp.","Measured + Indicated","LoT",0.969835258519516
+"683","Bear Lodge","Rare Element Resources Ltd.","Measured + Indicated","LoT",0.982298815585649
+"684","Bokan - Dotson","Ucore Rare Metals Inc.","Measured + Indicated","LoT",0.635772357723577
+"685","Brockmans","Hastings Rare Metals Limited","Measured + Indicated","LoT",0.179352997145576
+"686","Browns Range","Northern Minerals Limited","Measured + Indicated","LoT",0.210819958507254
+"687","Buckton","DNI Metals Inc.","Measured + Indicated","LoT",0.781919111816019
+"688","Charley Creek - Cattle Creek ","Crossland Strategic Metals Ltd.","Measured + Indicated","LoT",0.816
+"689","Charley Creek - Western Dam ","Crossland Strategic Metals Ltd.","Measured + Indicated","LoT",0.816
+"690","Dubbo Zirconia Project","Alkane Resources Ltd.","Measured + Indicated","LoT",0.79
+"691","Eco Ridge","Pele Mountain Resources Inc.","Measured + Indicated","LoT",0.9275
+"692","Elliott Lake Teasdale","Appia Energy Corp.","Measured + Indicated","LoT",0.942198011445292
+"693","Foxtrot","Search Minerals Inc.","Measured + Indicated","LoT",0.823979098122702
+"694","Glenover ","Galileo Resources PLC","Measured + Indicated","LoT",0.96148233300919
+"695","Hoidas Lake ","Great Western Minerals  Ltd.","Measured + Indicated","LoT",0.983019625132854
+"696","Kipawa","Matamec Explorations Inc.","Measured + Indicated","LoT",0.645117816803554
+"697","Lavergne-Springer","Canada Rare Earth Corp.","Measured + Indicated","LoT",0.959649122807018
+"698","Lofdal","Namibia Rare Earths Inc.","Measured + Indicated","LoT",0.19645732689211
+"699","Montviel","Geomega Resources Inc.","Measured + Indicated","LoT",0.992153083700441
+"700","Mount Weld CLD","Lynas Corporation Ltd.","Measured + Indicated","LoT",0.993661971830986
+"701","Mount Weld Duncan","Lynas Corporation Ltd.","Measured + Indicated","LoT",0.924615076984603
+"702","Mrima Hill High Grade","Pacific Wildcat Resources Corp.","Measured + Indicated","LoT",0.960081853816002
+"703","Mrima Hill Main","Pacific Wildcat Resources Corp.","Measured + Indicated","LoT",0.940498604904385
+"704","Nechalacho Basal","Avalon Rare Metals Inc.","Measured + Indicated","LoT",0.823490566600174
+"705","Nechalacho Upper","Avalon Rare Metals Inc.","Measured + Indicated","LoT",0.929915767307186
+"706","Ngualla","Peak Resources Ltd.","Measured + Indicated","LoT",0.9919
+"707","Nolans","Arafura Resources Ltd.","Measured + Indicated","LoT",0.980625281585822
+"708","Norra Kärr","Tasman Metals Ltd.","Measured + Indicated","LoT",0.526099820365609
+"709","Olserum","Tasman Metals Ltd.","Measured + Indicated","LoT",0.685631300187938
+"710","Round Top","Texas Rare Earth Resources Corp.","Measured + Indicated","LoT",0.292997809928711
+"711","Sarfartoq","Hudson Resources Inc.","Measured + Indicated","LoT",0.993444846292947
+"712","Songwe Hill","Mkango Resources Ltd.","Measured + Indicated","LoT",0.94840352881494
+"713","Steenkampskraal - In Situ","Great Western Minerals  Ltd.","Measured + Indicated","LoT",0.940912255071551
+"714","Steenkampskraal - Tailings","Great Western Minerals  Ltd.","Measured + Indicated","LoT",0.936279977691021
+"715","Strange Lake Enriched","Quest Rare Minerals Ltd.","Measured + Indicated","LoT",0.531575294934074
+"716","Strange Lake Granite","Quest Rare Minerals Ltd.","Measured + Indicated","LoT",0.647982062780269
+"717","Tantalus","Tantalus Rare Earths AG","Measured + Indicated","LoT",0.834725621406538
+"718","Xiluvo","Promac Lda.","Measured + Indicated","LoT",0.945812807881773
+"719","Yangibana ","Hastings Rare Metals Limited","Measured + Indicated","LoT",0.989487890566038
+"720","Zandkopsdrift ","Frontier Rare Earths Ltd.","Measured + Indicated","LoT",0.941979752722227
+"721","Aksu Diamas","AMR Mineral Metal Inc.","Measured + Indicated + Inferred","LoT",0.925965772977005
+"722","Araxá","MBAC Fertilizer Corp.","Measured + Indicated + Inferred","LoT",0.983495008303452
+"723","Ashram MHREO","Commerce Resources Corp.","Measured + Indicated + Inferred","LoT",0.943102857133012
+"724","Ashram Total","Commerce Resources Corp.","Measured + Indicated + Inferred","LoT",0.975476804052773
+"725","Bear Lodge","Rare Element Resources Ltd.","Measured + Indicated + Inferred","LoT",0.979360361543047
+"726","Bokan - Dotson","Ucore Rare Metals Inc.","Measured + Indicated + Inferred","LoT",0.640220791412488
+"727","Brockmans","Hastings Rare Metals Limited","Measured + Indicated + Inferred","LoT",0.179352997145576
+"728","Browns Range","Northern Minerals Limited","Measured + Indicated + Inferred","LoT",0.210933425155309
+"729","Buckton","DNI Metals Inc.","Measured + Indicated + Inferred","LoT",0.77981448603885
+"730","Buckton South","DNI Metals Inc.","Measured + Indicated + Inferred","LoT",0.77608956417433
+"731","Charley Creek - Cattle Creek ","Crossland Strategic Metals Ltd.","Measured + Indicated + Inferred","LoT",0.816
+"732","Charley Creek - Western Dam ","Crossland Strategic Metals Ltd.","Measured + Indicated + Inferred","LoT",0.816
+"733","Clay-Howells","Canada Rare Earth Corp.","Measured + Indicated + Inferred","LoT",0.925925925925926
+"734","Dubbo Zirconia Project","Alkane Resources Ltd.","Measured + Indicated + Inferred","LoT",0.79
+"735","Eco Ridge","Pele Mountain Resources Inc.","Measured + Indicated + Inferred","LoT",0.926352957080444
+"736","Elliott Lake Teasdale","Appia Energy Corp.","Measured + Indicated + Inferred","LoT",0.942250721271685
+"737","Foxtrot","Search Minerals Inc.","Measured + Indicated + Inferred","LoT",0.824441472174579
+"738","Glenover ","Galileo Resources PLC","Measured + Indicated + Inferred","LoT",0.961163515780313
+"739","Hoidas Lake ","Great Western Minerals  Ltd.","Measured + Indicated + Inferred","LoT",0.982607848354361
+"740","Kipawa","Matamec Explorations Inc.","Measured + Indicated + Inferred","LoT",0.650342330757322
+"741","Lavergne-Springer","Canada Rare Earth Corp.","Measured + Indicated + Inferred","LoT",0.968230710445487
+"742","Lofdal","Namibia Rare Earths Inc.","Measured + Indicated + Inferred","LoT",0.197817399323701
+"743","Milo","GBM Resources Ltd.","Measured + Indicated + Inferred","LoT",0.892561983471074
+"744","Montviel","Geomega Resources Inc.","Measured + Indicated + Inferred","LoT",0.991961718797128
+"745","Mount Weld CLD","Lynas Corporation Ltd.","Measured + Indicated + Inferred","LoT",0.993661971830986
+"746","Mount Weld Duncan","Lynas Corporation Ltd.","Measured + Indicated + Inferred","LoT",0.924615076984603
+"747","Mrima Hill High Grade","Pacific Wildcat Resources Corp.","Measured + Indicated + Inferred","LoT",0.960081132783225
+"748","Mrima Hill Main","Pacific Wildcat Resources Corp.","Measured + Indicated + Inferred","LoT",0.940495572026748
+"749","Nechalacho Basal","Avalon Rare Metals Inc.","Measured + Indicated + Inferred","LoT",0.834168402636267
+"750","Nechalacho Upper","Avalon Rare Metals Inc.","Measured + Indicated + Inferred","LoT",0.931704303272813
+"751","Ngualla","Peak Resources Ltd.","Measured + Indicated + Inferred","LoT",0.9919
+"752","Nolans","Arafura Resources Ltd.","Measured + Indicated + Inferred","LoT",0.976989338219503
+"753","Norra Kärr","Tasman Metals Ltd.","Measured + Indicated + Inferred","LoT",0.53217607942578
+"754","Olserum","Tasman Metals Ltd.","Measured + Indicated + Inferred","LoT",0.696144107182923
+"755","Round Top","Texas Rare Earth Resources Corp.","Measured + Indicated + Inferred","LoT",0.294431388427242
+"756","Sarfartoq","Hudson Resources Inc.","Measured + Indicated + Inferred","LoT",0.993297901943539
+"757","Songwe Hill","Mkango Resources Ltd.","Measured + Indicated + Inferred","LoT",0.946591453330063
+"758","Steenkampskraal - In Situ","Great Western Minerals  Ltd.","Measured + Indicated + Inferred","LoT",0.940929098196263
+"759","Steenkampskraal - Tailings","Great Western Minerals  Ltd.","Measured + Indicated + Inferred","LoT",0.936279977691021
+"760","Strange Lake Enriched","Quest Rare Minerals Ltd.","Measured + Indicated + Inferred","LoT",0.531575294934074
+"761","Strange Lake Granite","Quest Rare Minerals Ltd.","Measured + Indicated + Inferred","LoT",0.661598909649625
+"762","Tantalus","Tantalus Rare Earths AG","Measured + Indicated + Inferred","LoT",0.848926921097102
+"763","Two Tom","Canada Rare Earth Corp.","Measured + Indicated + Inferred","LoT",0.956006768189509
+"764","Wigu Hill Twiga","Montero Mining and Exploration Ltd.","Measured + Indicated + Inferred","LoT",0.997162818341875
+"765","Xiluvo","Promac Lda.","Measured + Indicated + Inferred","LoT",0.945812807881773
+"766","Yangibana ","Hastings Rare Metals Limited","Measured + Indicated + Inferred","LoT",0.989527588411519
+"767","Zandkopsdrift ","Frontier Rare Earths Ltd.","Measured + Indicated + Inferred","LoT",0.941987611483333
+"768","Bear Lodge","Rare Element Resources Ltd.","Proven + Probable","LoT",0.981532566246062
+"769","Dubbo Zirconia Project","Alkane Resources Ltd.","Proven + Probable","LoT",0.79
+"770","Kipawa","Matamec Explorations Inc.","Proven + Probable","LoT",0.666666666666667
+"771","Mount Weld CLD","Lynas Corporation Ltd.","Proven + Probable","LoT",0.993661971830986
+"772","Mountain Pass","Molycorp Inc.","Proven + Probable","LoT",0.998799279567741
+"773","Nechalacho Basal","Avalon Rare Metals Inc.","Proven + Probable","LoT",0.773262787042863
+"774","Ngualla","Peak Resources Ltd.","Proven + Probable","LoT",0.996201519392243
+"775","Norra Kärr","Tasman Metals Ltd.","Proven + Probable","LoT",0.505953285707048
+"776","Strange Lake Enriched","Quest Rare Minerals Ltd.","Proven + Probable","LoT",0.571121246020136
+"777","Araxá","MBAC Fertilizer Corp.","Measured + Indicated","CoT",0.14575980817137
+"778","Ashram MHREO","Commerce Resources Corp.","Measured + Indicated","CoT",0.204878591286846
+"779","Ashram Total","Commerce Resources Corp.","Measured + Indicated","CoT",0.17638514958253
+"780","Bear Lodge","Rare Element Resources Ltd.","Measured + Indicated","CoT",0.190532556555774
+"781","Bokan - Dotson","Ucore Rare Metals Inc.","Measured + Indicated","CoT",0.188617886178862
+"782","Brockmans","Hastings Rare Metals Limited","Measured + Indicated","CoT",0.136060894386299
+"783","Browns Range","Northern Minerals Limited","Measured + Indicated","CoT",0.139372999050034
+"784","Buckton","DNI Metals Inc.","Measured + Indicated","CoT",0.187946074544013
+"785","Charley Creek - Cattle Creek ","Crossland Strategic Metals Ltd.","Measured + Indicated","CoT",0.18
+"786","Charley Creek - Western Dam ","Crossland Strategic Metals Ltd.","Measured + Indicated","CoT",0.18
+"787","Dubbo Zirconia Project","Alkane Resources Ltd.","Measured + Indicated","CoT",0.165
+"788","Eco Ridge","Pele Mountain Resources Inc.","Measured + Indicated","CoT",0.16
+"789","Elliott Lake Teasdale","Appia Energy Corp.","Measured + Indicated","CoT",0.160379431825699
+"790","Foxtrot","Search Minerals Inc.","Measured + Indicated","CoT",0.19295529320689
+"791","Glenover ","Galileo Resources PLC","Measured + Indicated","CoT",0.241719786145773
+"792","Hoidas Lake ","Great Western Minerals  Ltd.","Measured + Indicated","CoT",0.219504363555812
+"793","Kipawa","Matamec Explorations Inc.","Measured + Indicated","CoT",0.190357404754935
+"794","Lavergne-Springer","Canada Rare Earth Corp.","Measured + Indicated","CoT",0.182456140350877
+"795","Lofdal","Namibia Rare Earths Inc.","Measured + Indicated","CoT",0.127214170692432
+"796","Montviel","Geomega Resources Inc.","Measured + Indicated","CoT",0.172219162995595
+"797","Mount Weld CLD","Lynas Corporation Ltd.","Measured + Indicated","CoT",0.192454728370221
+"798","Mount Weld Duncan","Lynas Corporation Ltd.","Measured + Indicated","CoT",0.201859628074385
+"799","Mrima Hill High Grade","Pacific Wildcat Resources Corp.","Measured + Indicated","CoT",0.158476481438783
+"800","Mrima Hill Main","Pacific Wildcat Resources Corp.","Measured + Indicated","CoT",0.164462491209763
+"801","Nechalacho Basal","Avalon Rare Metals Inc.","Measured + Indicated","CoT",0.210410195990638
+"802","Nechalacho Upper","Avalon Rare Metals Inc.","Measured + Indicated","CoT",0.213608844432745
+"803","Ngualla","Peak Resources Ltd.","Measured + Indicated","CoT",0.1688
+"804","Nolans","Arafura Resources Ltd.","Measured + Indicated","CoT",0.214239543916135
+"805","Norra Kärr","Tasman Metals Ltd.","Measured + Indicated","CoT",0.165351695959987
+"806","Olserum","Tasman Metals Ltd.","Measured + Indicated","CoT",0.194771911840082
+"807","Round Top","Texas Rare Earth Resources Corp.","Measured + Indicated","CoT",0.115040287234409
+"808","Sarfartoq","Hudson Resources Inc.","Measured + Indicated","CoT",0.192981464737794
+"809","Songwe Hill","Mkango Resources Ltd.","Measured + Indicated","CoT",0.179545294893492
+"810","Steenkampskraal - In Situ","Great Western Minerals  Ltd.","Measured + Indicated","CoT",0.192693740546881
+"811","Steenkampskraal - Tailings","Great Western Minerals  Ltd.","Measured + Indicated","CoT",0.191717791411043
+"812","Strange Lake Enriched","Quest Rare Minerals Ltd.","Measured + Indicated","CoT",0.15058986814712
+"813","Strange Lake Granite","Quest Rare Minerals Ltd.","Measured + Indicated","CoT",0.165919282511211
+"814","Tantalus","Tantalus Rare Earths AG","Measured + Indicated","CoT",0.177508129545494
+"815","Xiluvo","Promac Lda.","Measured + Indicated","CoT",0.187192118226601
+"816","Yangibana ","Hastings Rare Metals Limited","Measured + Indicated","CoT",0.245867777987421
+"817","Zandkopsdrift ","Frontier Rare Earths Ltd.","Measured + Indicated","CoT",0.174074274560543
+"818","Aksu Diamas","AMR Mineral Metal Inc.","Measured + Indicated + Inferred","CoT",0.160663309951084
+"819","Araxá","MBAC Fertilizer Corp.","Measured + Indicated + Inferred","CoT",0.145437711525713
+"820","Ashram MHREO","Commerce Resources Corp.","Measured + Indicated + Inferred","CoT",0.204751811427816
+"821","Ashram Total","Commerce Resources Corp.","Measured + Indicated + Inferred","CoT",0.176259583739227
+"822","Bear Lodge","Rare Element Resources Ltd.","Measured + Indicated + Inferred","CoT",0.192925091004772
+"823","Bokan - Dotson","Ucore Rare Metals Inc.","Measured + Indicated + Inferred","CoT",0.19040307038058
+"824","Brockmans","Hastings Rare Metals Limited","Measured + Indicated + Inferred","CoT",0.136060894386299
+"825","Browns Range","Northern Minerals Limited","Measured + Indicated + Inferred","CoT",0.1381526169275
+"826","Buckton","DNI Metals Inc.","Measured + Indicated + Inferred","CoT",0.190472560346478
+"827","Buckton South","DNI Metals Inc.","Measured + Indicated + Inferred","CoT",0.193522590963615
+"828","Charley Creek - Cattle Creek ","Crossland Strategic Metals Ltd.","Measured + Indicated + Inferred","CoT",0.18
+"829","Charley Creek - Western Dam ","Crossland Strategic Metals Ltd.","Measured + Indicated + Inferred","CoT",0.18
+"830","Clay-Howells","Canada Rare Earth Corp.","Measured + Indicated + Inferred","CoT",0.171467764060357
+"831","Dubbo Zirconia Project","Alkane Resources Ltd.","Measured + Indicated + Inferred","CoT",0.165
+"832","Eco Ridge","Pele Mountain Resources Inc.","Measured + Indicated + Inferred","CoT",0.160251837896575
+"833","Elliott Lake Teasdale","Appia Energy Corp.","Measured + Indicated + Inferred","CoT",0.0834889619569991
+"834","Foxtrot","Search Minerals Inc.","Measured + Indicated + Inferred","CoT",0.192441849109847
+"835","Glenover ","Galileo Resources PLC","Measured + Indicated + Inferred","CoT",0.239917620423352
+"836","Hoidas Lake ","Great Western Minerals  Ltd.","Measured + Indicated + Inferred","CoT",0.218652036142643
+"837","Kipawa","Matamec Explorations Inc.","Measured + Indicated + Inferred","CoT",0.189283937037409
+"838","Lavergne-Springer","Canada Rare Earth Corp.","Measured + Indicated + Inferred","CoT",0.169078725700362
+"839","Lofdal","Namibia Rare Earths Inc.","Measured + Indicated + Inferred","CoT",0.127420842299416
+"840","Milo","GBM Resources Ltd.","Measured + Indicated + Inferred","CoT",0.152066115702479
+"841","Montviel","Geomega Resources Inc.","Measured + Indicated + Inferred","CoT",0.171690675858802
+"842","Mount Weld CLD","Lynas Corporation Ltd.","Measured + Indicated + Inferred","CoT",0.192454728370221
+"843","Mount Weld Duncan","Lynas Corporation Ltd.","Measured + Indicated + Inferred","CoT",0.201859628074385
+"844","Mrima Hill High Grade","Pacific Wildcat Resources Corp.","Measured + Indicated + Inferred","CoT",0.158475815647096
+"845","Mrima Hill Main","Pacific Wildcat Resources Corp.","Measured + Indicated + Inferred","CoT",0.164463300257342
+"846","Nechalacho Basal","Avalon Rare Metals Inc.","Measured + Indicated + Inferred","CoT",0.212672126467211
+"847","Nechalacho Upper","Avalon Rare Metals Inc.","Measured + Indicated + Inferred","CoT",0.214098238839819
+"848","Ngualla","Peak Resources Ltd.","Measured + Indicated + Inferred","CoT",0.1688
+"849","Nolans","Arafura Resources Ltd.","Measured + Indicated + Inferred","CoT",0.217050656172381
+"850","Norra Kärr","Tasman Metals Ltd.","Measured + Indicated + Inferred","CoT",0.16582140082605
+"851","Olserum","Tasman Metals Ltd.","Measured + Indicated + Inferred","CoT",0.194236994775474
+"852","Round Top","Texas Rare Earth Resources Corp.","Measured + Indicated + Inferred","CoT",0.11533521531201
+"853","Sarfartoq","Hudson Resources Inc.","Measured + Indicated + Inferred","CoT",0.194927717123229
+"854","Songwe Hill","Mkango Resources Ltd.","Measured + Indicated + Inferred","CoT",0.178766866217564
+"855","Steenkampskraal - In Situ","Great Western Minerals  Ltd.","Measured + Indicated + Inferred","CoT",0.192823551009534
+"856","Steenkampskraal - Tailings","Great Western Minerals  Ltd.","Measured + Indicated + Inferred","CoT",0.191717791411043
+"857","Strange Lake Enriched","Quest Rare Minerals Ltd.","Measured + Indicated + Inferred","CoT",0.15058986814712
+"858","Strange Lake Granite","Quest Rare Minerals Ltd.","Measured + Indicated + Inferred","CoT",0.167203119963537
+"859","Tantalus","Tantalus Rare Earths AG","Measured + Indicated + Inferred","CoT",0.17605988185689
+"860","Two Tom","Canada Rare Earth Corp.","Measured + Indicated + Inferred","CoT",0.17005076142132
+"861","Wigu Hill Twiga","Montero Mining and Exploration Ltd.","Measured + Indicated + Inferred","CoT",0.0878778703568719
+"862","Xiluvo","Promac Lda.","Measured + Indicated + Inferred","CoT",0.187192118226601
+"863","Yangibana ","Hastings Rare Metals Limited","Measured + Indicated + Inferred","CoT",0.240785990519989
+"864","Zandkopsdrift ","Frontier Rare Earths Ltd.","Measured + Indicated + Inferred","CoT",0.174079302181636
+"865","Bear Lodge","Rare Element Resources Ltd.","Proven + Probable","CoT",0.19118226088774
+"866","Dubbo Zirconia Project","Alkane Resources Ltd.","Proven + Probable","CoT",0.165
+"867","Kipawa","Matamec Explorations Inc.","Proven + Probable","CoT",0.178362573099415
+"868","Mount Weld CLD","Lynas Corporation Ltd.","Proven + Probable","CoT",0.192454728370221
+"869","Mountain Pass","Molycorp Inc.","Proven + Probable","CoT",0.118371022613568
+"870","Nechalacho Basal","Avalon Rare Metals Inc.","Proven + Probable","CoT",0.210769782900647
+"871","Ngualla","Peak Resources Ltd.","Proven + Probable","CoT",0.170231907237105
+"872","Norra Kärr","Tasman Metals Ltd.","Proven + Probable","CoT",0.165239566972353
+"873","Strange Lake Enriched","Quest Rare Minerals Ltd.","Proven + Probable","CoT",0.153343085792961
+"874","Araxá","MBAC Fertilizer Corp.","Measured + Indicated","MoT",0.202637082600584
+"875","Ashram MHREO","Commerce Resources Corp.","Measured + Indicated","MoT",0.276357531479011
+"876","Ashram Total","Commerce Resources Corp.","Measured + Indicated","MoT",0.240617626508797
+"877","Bear Lodge","Rare Element Resources Ltd.","Measured + Indicated","MoT",0.262591187581515
+"878","Bokan - Dotson","Ucore Rare Metals Inc.","Measured + Indicated","MoT",0.253658536585366
+"879","Brockmans","Hastings Rare Metals Limited","Measured + Indicated","MoT",0.165556612749762
+"880","Browns Range","Northern Minerals Limited","Measured + Indicated","MoT",0.16513275002702
+"881","Buckton","DNI Metals Inc.","Measured + Indicated","MoT",0.25218080888184
+"882","Charley Creek - Cattle Creek ","Crossland Strategic Metals Ltd.","Measured + Indicated","MoT",0.244
+"883","Charley Creek - Western Dam ","Crossland Strategic Metals Ltd.","Measured + Indicated","MoT",0.244
+"884","Dubbo Zirconia Project","Alkane Resources Ltd.","Measured + Indicated","MoT",0.229
+"885","Eco Ridge","Pele Mountain Resources Inc.","Measured + Indicated","MoT",0.229375
+"886","Elliott Lake Teasdale","Appia Energy Corp.","Measured + Indicated","MoT",0.228682187984311
+"887","Foxtrot","Search Minerals Inc.","Measured + Indicated","MoT",0.265628023998452
+"888","Glenover ","Galileo Resources PLC","Measured + Indicated","MoT",0.327158537404975
+"889","Hoidas Lake ","Great Western Minerals  Ltd.","Measured + Indicated","MoT",0.303503654726024
+"890","Kipawa","Matamec Explorations Inc.","Measured + Indicated","MoT",0.256415850648276
+"891","Lavergne-Springer","Canada Rare Earth Corp.","Measured + Indicated","MoT",0.247368421052632
+"892","Lofdal","Namibia Rare Earths Inc.","Measured + Indicated","MoT",0.135265700483092
+"893","Montviel","Geomega Resources Inc.","Measured + Indicated","MoT",0.237885462555066
+"894","Mount Weld CLD","Lynas Corporation Ltd.","Measured + Indicated","MoT",0.264386317907445
+"895","Mount Weld Duncan","Lynas Corporation Ltd.","Measured + Indicated","MoT",0.26994601079784
+"896","Mrima Hill High Grade","Pacific Wildcat Resources Corp.","Measured + Indicated","MoT",0.217258473599262
+"897","Mrima Hill Main","Pacific Wildcat Resources Corp.","Measured + Indicated","MoT",0.224099993194656
+"898","Nechalacho Basal","Avalon Rare Metals Inc.","Measured + Indicated","MoT",0.28901889340168
+"899","Nechalacho Upper","Avalon Rare Metals Inc.","Measured + Indicated","MoT",0.299749934193209
+"900","Ngualla","Peak Resources Ltd.","Measured + Indicated","MoT",0.2301
+"901","Nolans","Arafura Resources Ltd.","Measured + Indicated","MoT",0.293147169983162
+"902","Norra Kärr","Tasman Metals Ltd.","Measured + Indicated","MoT",0.219189179669614
+"903","Olserum","Tasman Metals Ltd.","Measured + Indicated","MoT",0.231163505894413
+"904","Round Top","Texas Rare Earth Resources Corp.","Measured + Indicated","MoT",0.152789290257543
+"905","Sarfartoq","Hudson Resources Inc.","Measured + Indicated","MoT",0.264297016274864
+"906","Songwe Hill","Mkango Resources Ltd.","Measured + Indicated","MoT",0.245646734980883
+"907","Steenkampskraal - In Situ","Great Western Minerals  Ltd.","Measured + Indicated","MoT",0.271888424266568
+"908","Steenkampskraal - Tailings","Great Western Minerals  Ltd.","Measured + Indicated","MoT",0.269102063580591
+"909","Strange Lake Enriched","Quest Rare Minerals Ltd.","Measured + Indicated","MoT",0.201249132546842
+"910","Strange Lake Granite","Quest Rare Minerals Ltd.","Measured + Indicated","MoT",0.225336322869955
+"911","Tantalus","Tantalus Rare Earths AG","Measured + Indicated","MoT",0.246205692556019
+"912","Xiluvo","Promac Lda.","Measured + Indicated","MoT",0.25615763546798
+"913","Yangibana ","Hastings Rare Metals Limited","Measured + Indicated","MoT",0.326609455974843
+"914","Zandkopsdrift ","Frontier Rare Earths Ltd.","Measured + Indicated","MoT",0.237075032178296
+"915","Aksu Diamas","AMR Mineral Metal Inc.","Measured + Indicated + Inferred","MoT",0.220194804263316
+"916","Araxá","MBAC Fertilizer Corp.","Measured + Indicated + Inferred","MoT",0.202358590137445
+"917","Ashram MHREO","Commerce Resources Corp.","Measured + Indicated + Inferred","MoT",0.276152768660612
+"918","Ashram Total","Commerce Resources Corp.","Measured + Indicated + Inferred","MoT",0.240411679833017
+"919","Bear Lodge","Rare Element Resources Ltd.","Measured + Indicated + Inferred","MoT",0.265115301338546
+"920","Bokan - Dotson","Ucore Rare Metals Inc.","Measured + Indicated + Inferred","MoT",0.255831102530676
+"921","Brockmans","Hastings Rare Metals Limited","Measured + Indicated + Inferred","MoT",0.165556612749762
+"922","Browns Range","Northern Minerals Limited","Measured + Indicated + Inferred","MoT",0.163528596954338
+"923","Buckton","DNI Metals Inc.","Measured + Indicated + Inferred","MoT",0.255650052510919
+"924","Buckton South","DNI Metals Inc.","Measured + Indicated + Inferred","MoT",0.259496201519392
+"925","Charley Creek - Cattle Creek ","Crossland Strategic Metals Ltd.","Measured + Indicated + Inferred","MoT",0.244
+"926","Charley Creek - Western Dam ","Crossland Strategic Metals Ltd.","Measured + Indicated + Inferred","MoT",0.244
+"927","Clay-Howells","Canada Rare Earth Corp.","Measured + Indicated + Inferred","MoT",0.233196159122085
+"928","Dubbo Zirconia Project","Alkane Resources Ltd.","Measured + Indicated + Inferred","MoT",0.229
+"929","Eco Ridge","Pele Mountain Resources Inc.","Measured + Indicated + Inferred","MoT",0.22952698810555
+"930","Elliott Lake Teasdale","Appia Energy Corp.","Measured + Indicated + Inferred","MoT",0.227487975450236
+"931","Foxtrot","Search Minerals Inc.","Measured + Indicated + Inferred","MoT",0.264969882957607
+"932","Glenover ","Galileo Resources PLC","Measured + Indicated + Inferred","MoT",0.323911975003753
+"933","Hoidas Lake ","Great Western Minerals  Ltd.","Measured + Indicated + Inferred","MoT",0.302496721492668
+"934","Kipawa","Matamec Explorations Inc.","Measured + Indicated + Inferred","MoT",0.255154938173622
+"935","Lavergne-Springer","Canada Rare Earth Corp.","Measured + Indicated + Inferred","MoT",0.230744932539663
+"936","Lofdal","Namibia Rare Earths Inc.","Measured + Indicated + Inferred","MoT",0.135874577313249
+"937","Milo","GBM Resources Ltd.","Measured + Indicated + Inferred","MoT",0.20495867768595
+"938","Montviel","Geomega Resources Inc.","Measured + Indicated + Inferred","MoT",0.23732896250427
+"939","Mount Weld CLD","Lynas Corporation Ltd.","Measured + Indicated + Inferred","MoT",0.264386317907445
+"940","Mount Weld Duncan","Lynas Corporation Ltd.","Measured + Indicated + Inferred","MoT",0.26994601079784
+"941","Mrima Hill High Grade","Pacific Wildcat Resources Corp.","Measured + Indicated + Inferred","MoT",0.217257626980402
+"942","Mrima Hill Main","Pacific Wildcat Resources Corp.","Measured + Indicated + Inferred","MoT",0.224100860862435
+"943","Nechalacho Basal","Avalon Rare Metals Inc.","Measured + Indicated + Inferred","MoT",0.2918801304529
+"944","Nechalacho Upper","Avalon Rare Metals Inc.","Measured + Indicated + Inferred","MoT",0.298780852270974
+"945","Ngualla","Peak Resources Ltd.","Measured + Indicated + Inferred","MoT",0.2301
+"946","Nolans","Arafura Resources Ltd.","Measured + Indicated + Inferred","MoT",0.295666266916103
+"947","Norra Kärr","Tasman Metals Ltd.","Measured + Indicated + Inferred","MoT",0.220506256289047
+"948","Olserum","Tasman Metals Ltd.","Measured + Indicated + Inferred","MoT",0.246450206737395
+"949","Round Top","Texas Rare Earth Resources Corp.","Measured + Indicated + Inferred","MoT",0.153240349622334
+"950","Sarfartoq","Hudson Resources Inc.","Measured + Indicated + Inferred","MoT",0.266874760101273
+"951","Songwe Hill","Mkango Resources Ltd.","Measured + Indicated + Inferred","MoT",0.24459252758153
+"952","Steenkampskraal - In Situ","Great Western Minerals  Ltd.","Measured + Indicated + Inferred","MoT",0.27197603671799
+"953","Steenkampskraal - Tailings","Great Western Minerals  Ltd.","Measured + Indicated + Inferred","MoT",0.269102063580591
+"954","Strange Lake Enriched","Quest Rare Minerals Ltd.","Measured + Indicated + Inferred","MoT",0.201249132546842
+"955","Strange Lake Granite","Quest Rare Minerals Ltd.","Measured + Indicated + Inferred","MoT",0.226970881371758
+"956","Tantalus","Tantalus Rare Earths AG","Measured + Indicated + Inferred","MoT",0.244745489077149
+"957","Two Tom","Canada Rare Earth Corp.","Measured + Indicated + Inferred","MoT",0.241962774957699
+"958","Wigu Hill Twiga","Montero Mining and Exploration Ltd.","Measured + Indicated + Inferred","MoT",0.127837648914657
+"959","Xiluvo","Promac Lda.","Measured + Indicated + Inferred","MoT",0.25615763546798
+"960","Yangibana ","Hastings Rare Metals Limited","Measured + Indicated + Inferred","MoT",0.322097527323356
+"961","Zandkopsdrift ","Frontier Rare Earths Ltd.","Measured + Indicated + Inferred","MoT",0.237074414035278
+"962","Bear Lodge","Rare Element Resources Ltd.","Proven + Probable","MoT",0.262852490662855
+"963","Dubbo Zirconia Project","Alkane Resources Ltd.","Proven + Probable","MoT",0.229
+"964","Kipawa","Matamec Explorations Inc.","Proven + Probable","MoT",0.240253411306043
+"965","Mount Weld CLD","Lynas Corporation Ltd.","Proven + Probable","MoT",0.264386317907445
+"966","Mountain Pass","Molycorp Inc.","Proven + Probable","MoT",0.167000200120072
+"967","Nechalacho Basal","Avalon Rare Metals Inc.","Proven + Probable","MoT",0.286072768294241
+"968","Ngualla","Peak Resources Ltd.","Proven + Probable","MoT",0.230607756897241
+"969","Norra Kärr","Tasman Metals Ltd.","Proven + Probable","MoT",0.218810693958893
+"970","Strange Lake Enriched","Quest Rare Minerals Ltd.","Proven + Probable","MoT",0.207383185612254
